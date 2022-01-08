@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 
-Sitemap: /website/sitemap.xml
+Sitemap: /sitemap.xml
