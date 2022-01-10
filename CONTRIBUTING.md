@@ -1,0 +1,3 @@
+# Guide de Contribution
+
+*WIP*
