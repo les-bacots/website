@@ -23,8 +23,7 @@
         aria-labelledby="offcanvasDoksLabel">
         <div class="header-bar d-md-none"></div>
         <div class="offcanvas-header d-md-none">
-          <h2 class="h5 offcanvas-title ps-2" id="offcanvasDoksLabel"><a class="text-dark" href="{{ " /" | relLangURL
-              }}">{{ .Site.Params.Title }}</a></h2>
+          <h2 class="h5 offcanvas-title ps-2" id="offcanvasDoksLabel"><a class="text-dark" href="{{ "/" | relLangURL }}">{{ .Site.Params.Title }}</a></h2>
           <button type="button" class="btn-close text-reset me-2" data-bs-dismiss="offcanvas"
             aria-label="Close main menu"></button>
         </div>
@@ -38,7 +37,7 @@
             {{- $active = or $active (and (eq .Name "Groupes de travail") (eq $current.Section "groupes_de_travail")) -}}
             {{- $active = or $active (and (eq .Name "Comment participer ?") (eq $current.Section "comment_participer")) -}}
             {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog")) -}}
-            {{- $active = or $active (and (eq .Name "Contacts") (eq $current.Section "contacts")) -}}
+            {{- $active = or $active (and (eq .Name "Membres") (eq $current.Section "membres")) -}}
             <li class="nav-item">
               <a class="nav-link ps-0 py-1{{ if $active }} active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name
                 }}</a>
@@ -127,7 +126,7 @@
 </div>
 
 {{ if .Section -}}
-{{ if in "contacts comment_participer groupes_de_travail" .Section -}}
+{{ if in "membres comment_participer groupes_de_travail" .Section -}}
 <nav class="doks-subnavbar py-2 sticky-lg-top d-lg-none" aria-label="Secondary navigation">
   <div class="container-xxl d-flex align-items-md-center">
     <button class="btn doks-sidebar-toggle d-lg-none ms-3 order-3 collapsed ms-auto" type="button"
