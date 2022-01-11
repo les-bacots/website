@@ -9,9 +9,9 @@
   url = "/projets/"
 
 [[main]]
-  name = "Outils"
+  name = "Comment participer ?"
   weight = 30
-  url = "/outils/"
+  url = "/comment_participer/"
 
 [[main]]
   name = "Blog"
@@ -41,11 +41,11 @@
   identifier = "projets"
   url = "/projets/"
 
-[[outils]]
-  name = "Outils"
+[[comment_participer]]
+  name = "Comment participer ?"
   weight = 10
-  identifier = "outils"
-  url = "/outils/"
+  identifier = "comment_participer"
+  url = "/comment_participer/"
 
 [[social]]
   name = "GitHub"
