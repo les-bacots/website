@@ -1,38 +1,60 @@
 ---
 title : "Les Bacots"
-description: "Bienvenue sur le site 'Les Bacots'"
-lead: "Bienvenue sur le site 'Les Bacots'"
+description: "Base documentaire du collectif"
+lead: "Base documentaire du collectif"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
 images: []
 ---
 
-Ce site à pour objectif de capitaliser de façon ouverte et constructive autour des thèmes qui intéressent 'Les Bacots'.
+## Les Bacots : qu'est-ce que c'est ?
 
-## Pourquoi
+'Les Bacots' est **un collectif d'habitants de Bois-le-Roi** qui s'intéresse à **la vie et au futur de notre village**.
 
-La ville de Bois le Roi s'agrandi de jour en jour. Cette évolution mérite que nous nous y intéressions.
+Le collectif est organisé en **groupes de travail, ouverts à tous**.
 
-Aussi bien en tant que spectateurs:
+Chaque groupe de travail rassemble et produit de façon **collaborative et transparente** des informations qui sont ensuite partagées ici.
 
-- pour la compréhension des enjeux
-- rester informer des projets en cours
 
-Ou bien en tant que contributeur:
+## Pour quoi faire ?
 
-- en proposant des contenus informatifs
-- en contribuant dans les outils
-- en organisant des évènements
-- en animant la vie de la communauté
+- Pour partager des informations sourcées
+- Pour comprendre les problématiques de notre village
+- Pour imaginer ensemble le futur de Bois-le-Roi
+- Pour débattre et voter des propositions
 
-## Comment
+## Qui peut contribuer ?
 
-En collectant les informations utiles:
+Ce collectif est ***ouvert à tous les Bacots, sans exception***.
 
-- pour la vie de tous les jours
-- pour l'élaboration de projets alternatifs pour la ville
+Aussi bien en tant que **lecteurs** :
 
-En animant des salons de conversations en ligne pour discuter autour des sujets du moment (cf.: [Discord]({{< ref "/outils/discord" >}})).
+- pour bien comprendre les enjeux
+- pour rester informer des projets en cours
 
-En recueillant les idées, contributions de la communauté pour l'élaboration de projets alternatifs (cf.: [Github]({{< ref "/outils/github" >}}))
+Qu'en tant que **contributeurs** :
+
+- pour chercher des informations, les analyser, les restituer
+- pour organiser des évènements
+- pour proposer de nouvelles idées
+- pour animer la vie du collectif
+
+Des **référents** seront également sélectionnés pour aider ceux qui souhaitent contribuer mais qui ne maitrisent pas encore les outils digitaux.
+
+## Comment participer ?
+
+Il vous suffit de nous rejoindre sur notre outil de discussion  [Discord]({{< ref "/outils/discord" >}}) où vous pourrez nous poser toutes vos questions.
+
+Suite à cela, si vous souhaitez rejoindre un ou plusieurs groupes de travail pour contribuer, ce sera tout simple.
+
+Nous vous demanderons uniquement :
+- de compléter votre profil en ligne,
+- d'accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
+- de rencontrer physiquement un **référent** (autour d'un café) : pour faire connaissance, s'assurer que vous êtes un habitant de Bois-le-Roi bien réel, vous expliquer comment  les outils fonctionnent, et enfin vous donner vos droits de **contributeur**.
+
+Vous pourrez alors immédiatement participer aux groupes de travail, proposer vos idées, ... sur notre espace [Github]({{< ref "/outils/github" >}}).
+
+A très vite pour faire connaissance.
+
+***Le collectif "Les Bacots"***
