@@ -99,7 +99,7 @@ Source:
   {{ $contacts_list := (where .Site.Pages "Section" "contacts") -}}
   {{ $projets_list := (where .Site.Pages "Section" "projets") -}}
   {{ $outils_list := (where .Site.Pages "Section" "outils") -}}
-  {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes-de-travail") -}}
+  {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes_de_travail") -}}
 
   index
     {{ range $index, $element := $blog_list -}}
