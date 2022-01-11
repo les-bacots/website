@@ -1,4 +1,4 @@
-baseurl = "https://les-bacots.github.io/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
