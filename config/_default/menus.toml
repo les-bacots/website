@@ -1,7 +1,7 @@
 [[main]]
-  name = "Thématiques"
+  name = "Groupes de travail"
   weight = 10
-  url = "/thematiques/"
+  url = "/groupes-de-travail/"
 
 [[main]]
   name = "Projets"
@@ -23,17 +23,17 @@
   url = "/contacts/"
   weight = 50
 
-[[thematiques]]
+[[groupes-de-travail]]
   name = "Démographie"
   weight = 10
   identifier = "demographie"
-  url = "/thematiques/demographie/"
+  url = "/groupes-de-travail/demographie/"
 
-[[thematiques]]
+[[groupes-de-travail]]
   name = "Écologie"
   weight = 20
   identifier = "ecologie"
-  url = "/thematiques/ecologie/"
+  url = "/groupes-de-travail/ecologie/"
 
 [[projets]]
   name = "Projets"
