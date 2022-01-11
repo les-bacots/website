@@ -1,7 +1,7 @@
 ---
-title : "Thématiques"
-description: "Pages autour des sujets importants pour la communauté"
-lead: "Pages autour des sujets importants pour la communauté"
+title : "Groupes de travail"
+description: "Espaces de collaboration autour de sujets d'intérêt pour le collectif"
+lead: "Espaces de collaboration autour de sujets d'intérêt pour le collectif"
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -10,8 +10,13 @@ toc: true
 weight: 130
 ---
 
-A la manière d'un *wiki* les *thématiques* sont des *pages* élaborées autour de sujets identifiés comme importants pour la compréhension des enjeux et la réalisations de projets alternatifs.
+Les *groupes de travail* regroupent des contributeurs du collectif "Les Bacots" qui s'intéressent à des grandes problématiques identifiées.
+La liste des groupes de travail est succeptible d'évoluer en fonction des sujets d'intérêts proposés par les membres du collectif.
 
-Les *pages thématiques* sont mises en ligne après relecture de la communauté.
+Chaque *groupe de travail* est organisé à la manière d'un *wiki* sur lequel tous les membres contributeurs du collectif peuvent contribuer.
+Pour chaque *groupe de travail*, une série de questions est posée et une *page de réponse* est créée pour chaque question.
 
-Elles peuvent évoluer en fonction des éléments apportés, discutions et contributions de la communautés.
+Les *pages de réponse* sont mises en ligne après relecture du collectif.
+Elles peuvent évoluer en fonction de nouveaux éléments, de réunions, de discutions et de nouvelles contributions.
+
+Des salons de discussions plus informels sont également disponibles sur Discord pour chaque groupe de travail.
