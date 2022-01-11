@@ -74,7 +74,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "blog contacts outils projets thematiques" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "blog contacts outils projets groupes_de_travail" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
 {{ else -}}
@@ -99,7 +99,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" integrity="{{ $mermaid.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "blog contacts outils projets thematiques" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "blog contacts outils projets groupes-de-travail" .Section) -}}
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
 {{ end -}}
