@@ -98,7 +98,7 @@ Source:
   {{ $blog_list := (where .Site.Pages "Section" "blog") -}}
   {{ $contacts_list := (where .Site.Pages "Section" "contacts") -}}
   {{ $projets_list := (where .Site.Pages "Section" "projets") -}}
-  {{ $outils_list := (where .Site.Pages "Section" "outils") -}}
+  {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
   {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes_de_travail") -}}
 
   index
@@ -144,7 +144,7 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
-    {{ range $index, $element := $outils_list -}}
+    {{ range $index, $element := $comment_participer_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",

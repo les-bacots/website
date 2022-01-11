@@ -11,4 +11,4 @@ toc: true
 
 Cette section regroupe les projets actifs ou bien en cours de spécification: description, contacts, etc.
 
-Les projets visibles sur le site sont les projets approuvés par la communauté. En amont ils ont été discutés et revus à l'aide d'[outils]({{< ref "/outils" >}}) collaboratifs ouverts.
+Les projets visibles sur le site sont les projets approuvés par la communauté. En amont ils ont été discutés et revus à l'aide d'[outils]({{< ref "/comment_participer" >}}) collaboratifs ouverts.

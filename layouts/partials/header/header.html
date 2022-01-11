@@ -37,7 +37,7 @@
             {{- $active = or $active (eq .Name $current.Title) -}}
             {{- $active = or $active (and (eq .Name "Groupes de travail") (eq $current.Section "groupes_de_travail")) -}}
             {{- $active = or $active (and (eq .Name "Projets") (eq $current.Section "projets")) -}}
-            {{- $active = or $active (and (eq .Name "Outils") (eq $current.Section "outils")) -}}
+            {{- $active = or $active (and (eq .Name "Comment participer ?") (eq $current.Section "comment_participer")) -}}
             {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog")) -}}
             {{- $active = or $active (and (eq .Name "Contacts") (eq $current.Section "contacts")) -}}
             <li class="nav-item">
@@ -127,7 +127,7 @@
   </header>
 </div>
 
-{{ if in "blog contacts outils projets groupes-de-travail" .Section -}}
+{{ if in "blog contacts comment_participer projets groupes_de_travail" .Section -}}
 <nav class="doks-subnavbar py-2 sticky-lg-top d-lg-none" aria-label="Secondary navigation">
   <div class="container-xxl d-flex align-items-md-center">
     <button class="btn doks-sidebar-toggle d-lg-none ms-3 order-3 collapsed ms-auto" type="button"
