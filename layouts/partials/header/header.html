@@ -127,7 +127,9 @@
   </header>
 </div>
 
-{{ if in "blog contacts comment_participer projets groupes_de_travail" .Section -}}
+
+{{ if .Section -}}
+{{ if in "contacts comment_participer projets groupes_de_travail" .Section -}}
 <nav class="doks-subnavbar py-2 sticky-lg-top d-lg-none" aria-label="Secondary navigation">
   <div class="container-xxl d-flex align-items-md-center">
     <button class="btn doks-sidebar-toggle d-lg-none ms-3 order-3 collapsed ms-auto" type="button"
@@ -148,4 +150,15 @@
     </button>
   </div>
 </nav>
+
+<div class="container-xxl">
+  <aside class="doks-sidebar">
+    <nav id="doks-docs-nav" class="collapse d-lg-none" aria-label="Tertiary navigation">
+      {{ $Section := .Section }}
+      {{ $path := "-menu.html" | printf "%s%s" $Section | printf "%s%s" "sidebar/" }}
+      {{ partial $path . }}
+    </nav>
+  </aside>
+</div>
+{{ end -}}
 {{ end -}}
