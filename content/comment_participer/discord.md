@@ -13,4 +13,9 @@ weight: 20
 toc: true
 ---
 
-*TODO*
+Discord est un outils qui réunit des fonctionnalités de discussion type Whatsapp et des fonctionnalités de visioconférence type Zoom/Teams.
+Les discussions sont regroupées par salons. Elles sont publiques et historisées, ce qui offre une transparence.
+
+***En Construction***
+
+Nous allons décrire ici comment utiliser au mieux cet outil dans le cadre des échanges collaboratifs du collectif.
