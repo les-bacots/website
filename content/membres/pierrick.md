@@ -1,7 +1,7 @@
 ---
 title: "Pierrick Houdeville"
-description: "Référente 'Les Bacots'"
-lead: "Référente 'Les Bacots'"
+description: "Référent 'Les Bacots'"
+lead: "Référent 'Les Bacots'"
 date: 2021-01-11T21:21:01+02:00
 lastmod: 2021-01-11T21:21:01+02:00
 draft: false
@@ -13,30 +13,30 @@ weight: 60
 toc: true
 ---
 
-## Qui suis je?
+### Qui suis je?
 
 - A compléter
 
-## Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
+### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
 - A compléter
 
-## Participation à la vie locale de Bois-le-Roi
+### Participation à la vie locale de Bois-le-Roi
 
 - A compléter
 
-## Ma profession actuelle
+### Ma profession actuelle
 
 - A compléter
 
-## Mes expériences passées
+### Mes expériences passées
 
 - A compléter
 
-## Ma formation
+### Ma formation
 
 - A compléter
 
-## Mes hobbies & passions
+### Mes hobbies & passions
 
 - A compléter
