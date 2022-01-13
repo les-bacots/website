@@ -1,6 +1,6 @@
 ---
-title : "Les Bacots"
-description: "Base documentaire du collectif"
+title : "www.lesbacots.org"
+description: "Base documentaire collaborative du collectif 'Les Bacots'"
 lead: "Base documentaire du collectif"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
