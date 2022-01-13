@@ -4,11 +4,6 @@
   url = "/groupes_de_travail/"
 
 [[main]]
-  name = "Projets"
-  weight = 20
-  url = "/projets/"
-
-[[main]]
   name = "Comment participer ?"
   weight = 30
   url = "/comment_participer/"
@@ -34,12 +29,6 @@
   weight = 20
   identifier = "ecologie"
   url = "/groupes_de_travail/ecologie/"
-
-[[projets]]
-  name = "Projets"
-  weight = 10
-  identifier = "projets"
-  url = "/projets/"
 
 [[comment_participer]]
   name = "Comment participer ?"
