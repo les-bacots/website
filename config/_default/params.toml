@@ -10,7 +10,7 @@ description = ""
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["bois-le-roi.jpg"]
 ogLocale = "fr_fr"
 domainTLD = "github.io"
 titleHome = "Le Site"
@@ -22,10 +22,10 @@ schemaName = "Website"
 schemaAuthor = "Toopy"
 schemaAuthorGitHub = "https://github.com/les-bacots"
 schemaLocale = "fr-fr"
-schemaLogo = "logo-doks.png"
+schemaLogo = "les-bacots.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "bois-le-roi.jpg"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = ""
