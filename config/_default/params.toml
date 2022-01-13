@@ -57,6 +57,7 @@ copyRight = "Copyright (c) 2022 Les Bacots"
 docsRepo = "https://github.com/les-bacots/les-bacots.github.io"
 docsRepoBranch = "master"
 editPage = true
+repoHost = "GitHub"
 
 [options]
   lazySizes = true
