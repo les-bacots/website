@@ -19,16 +19,82 @@
   weight = 50
 
 [[groupes_de_travail]]
-  name = "Démographie"
+  name = "Démographie et Logements"
   weight = 10
-  identifier = "demographie"
-  url = "/groupes_de_travail/demographie/"
+  identifier = "demographie_logements"
+  url = "/groupes_de_travail/demographie_logements/"
 
 [[groupes_de_travail]]
-  name = "Écologie"
+  name = "Santé"
   weight = 20
-  identifier = "ecologie"
-  url = "/groupes_de_travail/ecologie/"
+  identifier = "sante"
+  url = "/groupes_de_travail/sante/"
+
+[[groupes_de_travail]]
+  name = "Enfance et Éducation"
+  weight = 30
+  identifier = "enfance_education"
+  url = "/groupes_de_travail/enfance_education/"
+
+[[groupes_de_travail]]
+  name = "Biodiversité"
+  weight = 40
+  identifier = "biodiversite"
+  url = "/groupes_de_travail/biodiversite/"
+
+[[groupes_de_travail]]
+  name = "Climat"
+  weight = 50
+  identifier = "climat"
+  url = "/groupes_de_travail/climat/"
+
+[[groupes_de_travail]]
+  name = "Culture"
+  weight = 60
+  identifier = "culture"
+  url = "/groupes_de_travail/culture/"
+
+[[groupes_de_travail]]
+  name = "Économie"
+  weight = 70
+  identifier = "economie"
+  url = "/groupes_de_travail/economie/"
+
+[[groupes_de_travail]]
+  name = "Mobilité et Voiries"
+  weight = 80
+  identifier = "mobilite_voiries"
+  url = "/groupes_de_travail/mobilite_voiries/"
+
+[[groupes_de_travail]]
+  name = "Sport et Loisirs"
+  weight = 90
+  identifier = "sport_loisirs"
+  url = "/groupes_de_travail/sport_loisirs/"
+
+[[groupes_de_travail]]
+  name = "Foncier"
+  weight = 100
+  identifier = "foncier"
+  url = "/groupes_de_travail/foncier/"
+
+[[groupes_de_travail]]
+  name = "Gestion des déchets"
+  weight = 110
+  identifier = "gestion_dechets"
+  url = "/groupes_de_travail/gestion_dechets/"
+
+[[groupes_de_travail]]
+  name = "Alimentation"
+  weight = 120
+  identifier = "alimentation"
+  url = "/groupes_de_travail/alimentation/"
+
+[[groupes_de_travail]]
+  name = "Budget"
+  weight = 130
+  identifier = "budget"
+  url = "/groupes_de_travail/budget/"
 
 [[comment_participer]]
   name = "Comment participer ?"
