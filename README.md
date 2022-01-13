@@ -46,11 +46,11 @@ Une fois installer on lance le site de la façon suivante:
 ...
 Environment: "development"
 Serving pages from memory
-Web Server is available at http://localhost:1313/ (bind address 0.0.0.0)
+Web Server is available at http://localhost:7759/ (bind address 0.0.0.0)
 Press Ctrl+C to stop
 ```
 
-Le site peut alors être consulter à l'adresse suivante dans un navigateur -> http://localhost:1313.
+Le site peut alors être consulter à l'adresse suivante dans un navigateur -> http://localhost:7759.
 
 ## License
 

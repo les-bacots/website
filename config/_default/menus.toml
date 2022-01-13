@@ -14,8 +14,8 @@
   weight = 40
 
 [[main]]
-  name = "Contacts"
-  url = "/contacts/"
+  name = "Membres"
+  url = "/membres/"
   weight = 50
 
 [[groupes_de_travail]]
@@ -35,6 +35,12 @@
   weight = 10
   identifier = "comment_participer"
   url = "/comment_participer/"
+
+[[membres]]
+  name = "Membres"
+  weight = 10
+  identifier = "membres"
+  url = "/membres/"
 
 [[social]]
   name = "GitHub"

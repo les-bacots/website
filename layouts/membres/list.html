@@ -1,0 +1,46 @@
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+	<div class="row justify-content-center">
+		<div class="col-lg-9">
+			<h1 class="mt-0">{{ .Title }}</h1>
+		</div>
+		<div class="col-lg-9 col-xl-8">
+			<p class="lead">{{ .Params.lead | safeHTML }}</p>
+		</div>
+	</div>
+	<div class="row mx-auto col-12">
+		<div class="col-12 col-md-6 col-xl-4">
+			<div class="card">
+				<img src="/membres/images/user.svg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Simon Mencarelli</h5>
+					<h6 class="card-subtitle mb-2 text-muted">Multi-entrepreneur</h6>
+					<p class="card-text">Membre-fondateur du collectif "Les Bacots"</p>
+					<a href="/membres/simon" class="btn btn-primary">+ d'infos</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-12 col-md-6 col-xl-4">
+			<div class="card">
+				<img src="/membres/images/user.svg" class="card-img-top">
+				<div class="card-body">
+					<h5 class="card-title">Florent Pigout</h5>
+					<h6 class="card-subtitle mb-2 text-muted">Développeur</h6>
+					<p class="card-text">Contributeur numérique du collectif "Les Bacots"</p>
+						<a href="/membres/florent" class="btn btn-primary">+ d'infos</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+<section class="section section-sm container-fluid">
+	<div class="row flex-xl-nowrap">
+		{{ if .Site.Params.editPage -}}
+		{{ partial "main/edit-page.html" . }}
+		{{ end -}}
+	</div>
+</section>
+{{ end }}

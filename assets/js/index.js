@@ -80,7 +80,7 @@ Source:
 
   /*
   var docs = [
-    {{ range $index, $page := (where .Site.Pages "Section" "contacts") -}}
+    {{ range $index, $page := (where .Site.Pages "Section" "membres") -}}
       {
         id: {{ $index }},
         href: "{{ .Permalink }}",
@@ -96,7 +96,7 @@ Source:
 
   {{ $all_index := 0 -}}
   {{ $blog_list := (where .Site.Pages "Section" "blog") -}}
-  {{ $contacts_list := (where .Site.Pages "Section" "contacts") -}}
+  {{ $membres_list := (where .Site.Pages "Section" "membres") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
   {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes_de_travail") -}}
 
@@ -115,7 +115,7 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
-    {{ range $index, $element := $contacts_list -}}
+    {{ range $index, $element := $membres_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",
