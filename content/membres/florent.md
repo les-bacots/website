@@ -1,7 +1,7 @@
 ---
 title: "Florent Pigout"
-description: "Contributeur numérique du collectif 'Les Bacots'"
-lead: "Contributeur numérique du collectif 'Les Bacots'"
+description: "Référent 'Les Bacots'"
+lead: "Référent 'Les Bacots'"
 date: 2021-01-11T21:21:01+02:00
 lastmod: 2021-01-11T21:21:01+02:00
 draft: false

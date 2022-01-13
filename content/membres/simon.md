@@ -1,7 +1,7 @@
 ---
 title: "Simon Mencarelli"
-description: "Référent"
-lead: "Référent"
+description: "Référente 'Les Bacots'"
+lead: "Référente 'Les Bacots'"
 date: 2021-01-11T21:21:01+02:00
 lastmod: 2021-01-11T21:21:01+02:00
 draft: false
