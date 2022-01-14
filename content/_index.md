@@ -1,21 +1,21 @@
 ---
-title : "www.lesbacots.org"
-description: "Base documentaire collaborative du collectif 'Les Bacots'"
-lead: "Base documentaire collaborative du collectif 'Les Bacots'"
+title : "lesbacots.org"
+description: "Base documentaire collaborative pour les tous bacots"
+lead: "Base documentaire collaborative pour les tous bacots"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
 images: []
 ---
 
-## Les Bacots : qu'est-ce que c'est ?
+## lesbacots.org : qu'est-ce que c'est ?
 
 'Les Bacots' est **un collectif d'habitants de Bois-le-Roi** qui s'intéresse à **la vie et au futur de notre village**.
 
-Le collectif est organisé en **groupes de travail, ouverts à tous**.
-
-Chaque groupe de travail rassemble et produit de façon **collaborative et transparente** des informations qui sont ensuite partagées ici.
-
+Le collectif est entièrement organisé de façon **collaborative et transparente**.
+Il est **ouvert à tous**.
+Les contributeurs sont répartis en **groupes de travail** qui rassemblent et produisent des informations qui sont ensuite partagées ici, à la manière d'un *wiki*.
+Toutes les données produites, les idées sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
 
 ## Pour quoi faire ?
 
@@ -58,4 +58,4 @@ Vous pourrez alors immédiatement participer aux groupes de travail, proposer vo
 
 A très vite pour faire connaissance.
 
-***Le collectif "Les Bacots"***
+***Le collectif lesbacots.org***
