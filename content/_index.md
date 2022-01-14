@@ -15,7 +15,7 @@ lesbacots.org est **un collectif d'habitants de Bois-le-Roi** qui s'intéresse �
 Le collectif est entièrement organisé de façon **collaborative et transparente**.
 Il est **ouvert à tous**.
 Les contributeurs sont répartis en **groupes de travail** qui rassemblent et produisent des informations qui sont ensuite partagées ici, à la manière d'un *wiki*.
-Toutes les données produites, les idées sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
+Toutes les données, les idées et les propositions disponibles sur cette base documentaire sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
 
 ## Pour quoi faire ?
 
