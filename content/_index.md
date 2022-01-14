@@ -10,7 +10,7 @@ images: []
 
 ## lesbacots.org : qu'est-ce que c'est ?
 
-'Les Bacots' est **un collectif d'habitants de Bois-le-Roi** qui s'intéresse à **la vie et au futur de notre village**.
+lesbacots.org est **un collectif d'habitants de Bois-le-Roi** qui s'intéresse à **la vie et au futur de notre village**.
 
 Le collectif est entièrement organisé de façon **collaborative et transparente**.
 Il est **ouvert à tous**.
