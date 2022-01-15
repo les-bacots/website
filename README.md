@@ -1,6 +1,6 @@
 # Hugo WebSite
 
-Ce dépôt est destiné à la gestion des documents du groupe "Les Bacots". Une fois relu et approuvée, le résultat est publié automatiquement sur la page github du projet.
+Ce dépôt est destiné à la gestion des documents du groupe lesbacots.org. Une fois relu et approuvée, le résultat est publié automatiquement sur la page github du projet.
 
 Toute contribution est la bienvenue. Pour plus de détails vous pouvez vous référer au [guide de contribution](CONTRIBUTING.md).
 

@@ -32,7 +32,7 @@ toc: true
 - J'ai exprimé mes questions et réserves sur la modification n°3 du PLU dans le cadre de l'enquête publique et rencontré le commissaire enquêteur à cette occasion.
 - J'ai aidé l'association "Bien à Bois-le-Roi" à collecter des fonds en organisant la collecte de crowdfunding sur HelloAsso (https://www.helloasso.com/associations/bien-a-bois-le-roi/collectes/collecte-1-bien-a-bois-le-roi) et soutenu en tant que donnateur.
 - Je suis membre d'aucune association sur Bois-le-Roi.
-- Je suis membre-fondateur du collectif "Les Bacots".
+- Je suis membre du collectif lesbacots.org.
 
 ### Ma profession actuelle
 
