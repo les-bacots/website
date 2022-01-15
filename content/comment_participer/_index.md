@@ -1,14 +1,14 @@
 ---
 title : "Comment participer ?"
-description: "Description des droits et devoirs pour devenir contributeur"
-lead: "Description des droits et devoirs pour devenir contributeur"
+description: "Description des droits et devoirs pour devenir contributeur sur lesbacots.org"
+lead: "Description des droits et devoirs pour devenir contributeur sur lesbacots.org"
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
 images: []
 ---
 
-## Le collectif "Les Bacots" est ouvert à tous les habitants de Bois-le-Roi, sans exception. ##
+## Le collectif lesbacots.org est ouvert à tous les habitants de Bois-le-Roi, sans exception. ##
 
 Les **lecteurs** (tout le monde) peuvent :
 - Consulter l'ensemble de la base documentaire sur www.lesbacots.org.
