@@ -10,7 +10,7 @@ toc: true
 weight: 130
 ---
 
-Les *groupes de travail* regroupent des contributeurs du collectif "Les Bacots" qui s'intéressent à des grandes problématiques identifiées.
+Les *groupes de travail* regroupent des contributeurs du collectif lesbacots.org qui s'intéressent à des grandes problématiques identifiées.
 La liste des groupes de travail est succeptible d'évoluer en fonction des sujets d'intérêts proposés par les membres du collectif.
 
 Chaque *groupe de travail* est organisé à la manière d'un *wiki* sur lequel tous les membres contributeurs du collectif peuvent contribuer.

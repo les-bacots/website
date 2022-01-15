@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Les Bacots"
+title = "lesbacots.org"
 titleSeparator = "-"
 titleAddition = "Le Site"
 description = ""
@@ -51,7 +51,7 @@ smallLimit = "300"
 footer = "Propulsé par <a href=\"https://gohugo.io/\">Hugo</a>, <a href=\"https://getdoks.org/\">Doks</a> et <b>Les Bacots</b>."
 
 # Feed
-copyRight = "Copyright (c) 2022 Les Bacots"
+copyRight = "Copyright (c) 2022 lesbacots.org"
 
 # Edit Page
 docsRepo = "https://github.com/les-bacots/les-bacots.github.io"
