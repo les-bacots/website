@@ -1,6 +1,6 @@
 {
-  "name": "website",
-  "description": "Website pour 'les bacots'",
+  "name": "lesbacots.org",
+  "description": "Base documentaire lesbacots.org",
   "version": "0.1.0",
   "browserslist": [
     "defaults"
