@@ -1,7 +1,7 @@
 ---
 title: "Margaux de Roquefeuil"
-description: "Référente 'Les Bacots'"
-lead: "Référente 'Les Bacots'"
+description: "Référente lesbacots.org"
+lead: "Référente lesbacots.org"
 date: 2021-01-11T21:21:01+02:00
 lastmod: 2021-01-11T21:21:01+02:00
 draft: false
