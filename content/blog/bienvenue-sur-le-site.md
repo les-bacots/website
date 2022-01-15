@@ -1,7 +1,7 @@
 ---
 title: "Bienvenue sur la section Blog 👋"
-description: "Introduction au Blog 'Les Bacots'"
-lead: "Introduction au Blog 'Les Bacots'"
+description: "Introduction au Blog lesbacots.org"
+lead: "Introduction au Blog lesbacots.org"
 date: 2022-01-08T09:19:42+01:00
 lastmod: 2022-01-08T09:19:42+01:00
 draft: false
