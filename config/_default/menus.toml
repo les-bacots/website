@@ -102,6 +102,12 @@
   identifier = "comment_contribuer"
   url = "/comment_contribuer/"
 
+[[comment_participer]]
+  name = "Chartes de membre"
+  weight = 20
+  identifier = "chartes"
+  url = "/chartes/"
+
 [[membres]]
   name = "Membres"
   weight = 10
