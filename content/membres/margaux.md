@@ -28,15 +28,3 @@ toc: true
 ### Ma profession actuelle
 
 - A compléter
-
-### Mes expériences passées
-
-- A compléter
-
-### Ma formation
-
-- A compléter
-
-### Mes hobbies & passions
-
-- A compléter

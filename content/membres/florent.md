@@ -30,12 +30,3 @@ toc: true
 ### Ma profession actuelle
 
 - Je suis développeur en informatique
-
-### Ma formation
-
-- Etudes d'informatique au CNAM de 2000 à 2006
-
-### Mes hobbies & passions
-
-- J'aime passer du temps avec ma famille, si possible dehors en forêt ou près de la Seine
-- J'aime bricoler physiquement et numériquement
