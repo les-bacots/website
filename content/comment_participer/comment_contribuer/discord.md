@@ -7,7 +7,7 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  comment_contribuer:
+  comment_participer:
     parent: "comment_contribuer"
 weight: 20
 toc: true
