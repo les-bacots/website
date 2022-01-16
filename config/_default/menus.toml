@@ -100,19 +100,19 @@
   name = "Comment contribuer ?"
   weight = 10
   identifier = "comment_contribuer"
-  url = "/groupes_de_travail/comment_contribuer/"
+  url = "/comment_participer/comment_contribuer/"
 
 [[comment_participer]]
   name = "Chartes de membre"
   weight = 20
   identifier = "chartes"
-  url = "/groupes_de_travail/chartes/"
+  url = "/comment_participer/chartes/"
 
   [[comment_participer]]
   name = "Consulter l'historique"
   weight = 30
   identifier = "historique"
-  url = "/groupes_de_travail/historique/"
+  url = "/comment_participer/historique/"
 
 [[membres]]
   name = "Membres"
