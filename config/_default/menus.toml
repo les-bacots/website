@@ -100,13 +100,13 @@
   name = "Comment contribuer ?"
   weight = 10
   identifier = "comment_contribuer"
-  url = "/comment_contribuer/"
+  url = "/groupes_de_travail/comment_contribuer/"
 
 [[comment_participer]]
   name = "Chartes de membre"
   weight = 20
   identifier = "chartes"
-  url = "/chartes/"
+  url = "/groupes_de_travail/chartes/"
 
 [[membres]]
   name = "Membres"
