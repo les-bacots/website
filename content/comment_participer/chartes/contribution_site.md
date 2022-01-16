@@ -15,4 +15,4 @@ toc: true
 
 ## Article 1
 
-*A compléter
+***En construction***

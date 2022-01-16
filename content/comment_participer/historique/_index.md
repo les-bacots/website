@@ -12,3 +12,5 @@ images: []
 
 L'ensemble des discussions dans les salons discord ainsi que les demandes et changements sont publiques.
 De plus le système garde une traçabilité de l'ensemble des échanges et modifications qui sont consultables à tout moment.
+
+***En construction***
