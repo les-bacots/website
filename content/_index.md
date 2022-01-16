@@ -44,7 +44,7 @@ Des **référents** seront également sélectionnés pour aider ceux qui souhait
 
 ## Comment participer ?
 
-Il vous suffit de nous rejoindre sur notre outil de discussion  [Discord]({{< ref "/comment_participer/discord" >}}) où vous pourrez nous poser toutes vos questions.
+Il vous suffit de nous rejoindre sur notre outil de discussion  [Discord]({{< ref "/comment_participer/comment_contribuer/discord" >}}) où vous pourrez nous poser toutes vos questions.
 
 Suite à cela, si vous souhaitez rejoindre un ou plusieurs groupes de travail pour contribuer, ce sera tout simple.
 
@@ -54,7 +54,7 @@ Nous vous demanderons uniquement :
 - d'accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
 - de rencontrer physiquement un **référent** (autour d'un café) : pour faire connaissance, s'assurer que vous êtes un habitant de Bois-le-Roi bien réel, vous expliquer comment  les groupes de travail fonctionnent, et enfin vous donner vos droits de **contributeur**.
 
-Vous pourrez alors immédiatement participer aux groupes de travail, proposer vos idées, ... sur notre espace [Github]({{< ref "/comment_participer/github" >}}).
+Vous pourrez alors immédiatement participer aux groupes de travail, proposer vos idées, ... sur notre espace [Github]({{< ref "/comment_participer/comment_contribuer/github" >}}).
 
 A très vite pour faire connaissance.
 
