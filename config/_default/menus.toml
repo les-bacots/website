@@ -108,6 +108,12 @@
   identifier = "chartes"
   url = "/groupes_de_travail/chartes/"
 
+  [[comment_participer]]
+  name = "Consulter l'historique"
+  weight = 30
+  identifier = "historique"
+  url = "/groupes_de_travail/historique/"
+
 [[membres]]
   name = "Membres"
   weight = 10

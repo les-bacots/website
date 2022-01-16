@@ -1,6 +1,6 @@
 ---
-title : "Comment consulter l'historique ?"
-description: "Comment consulter l'historique ?"
+title : "Consulter l'historique"
+description: "Consulter l'historique"
 lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
