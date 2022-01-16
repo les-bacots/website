@@ -13,6 +13,6 @@ contributors: ["Florent Pigout", "Simon Mencarelli"]
 Parce que nous sommes tous des observateurs et des acteurs de la vie à Bois le Roi.
 Ce blog est là pour recueillir nos articles, nos lettres ouvertes sur les sujets que nous souhaitons partager.
 
-Ces contributions peuvent est faites via [Github]({{< ref "/comment_participer/github" >}}).
+Ces contributions peuvent est faites via [Github]({{< ref "/comment_participer/comment_contribuer/github" >}}).
 
 Elles seront publiées une fois relues et approuvées par la communauté.
