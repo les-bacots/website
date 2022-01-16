@@ -97,10 +97,10 @@
   url = "/groupes_de_travail/budget/"
 
 [[comment_participer]]
-  name = "Comment participer ?"
+  name = "Comment contribuer ?"
   weight = 10
-  identifier = "comment_participer"
-  url = "/comment_participer/"
+  identifier = "comment_contribuer"
+  url = "/comment_contribuer/"
 
 [[membres]]
   name = "Membres"
