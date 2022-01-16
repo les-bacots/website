@@ -2,7 +2,7 @@
 name: Nouveau membre
 about: Renseignez votre profil Membre pour devenir contributeur
 title: Demande de création de profil Membre pour ...
-labels: ''
+labels: 'nouveau membre'
 assignees: ''
 
 ---
