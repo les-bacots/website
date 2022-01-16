@@ -31,4 +31,3 @@ toc: true
 ### Ma profession actuelle
 
 - Gestionnaire de projets informatiques dans le secteur de la banque et la finance depuis 40 ans.
-diff --git a/layouts/membres/list.html b/layouts/membres/list.html
