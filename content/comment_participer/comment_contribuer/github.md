@@ -1,14 +1,14 @@
 ---
-title: "Github"
-description: "Github"
-lead: "Github"
+title: "Contribuer sur Github"
+description: "Contribuer sur Github"
+lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
   comment_participer:
-    parent: "comment_participer"
+    parent: "comment_contribuer"
 weight: 40
 toc: true
 ---
