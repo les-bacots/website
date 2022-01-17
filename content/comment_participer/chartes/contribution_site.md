@@ -15,6 +15,14 @@ toc: true
 
 ## Article 1
 
+La contribution sur le site les-bacots.org est autorisée uniquement aux personnes possédant un compte valide (charte de membre dûment complétée et validée)
+
+## Article 2
+
+La contribution sur un groupe de travail particulier nécessite également des droits de contributeur sur ce groupe, ces droits pouvant être demandés librement pour chaque personne enregistrée en tant que membre sur le site les-bacots.org
+
+## Article 3
+
 Il est interdit de désigner, de critiquer ou d'attaquer des personnes.
 
 ## Article 2
