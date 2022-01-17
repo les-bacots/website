@@ -10,11 +10,12 @@ assignees: ''
 **Nom et Prénom :**
 A compléter.
 
-**Profession : **
-En un ou deux mots.
-
 **Qui êtes-vous?**
 - Aidez nous à mieux comprendre qui vous êtes en quelques bullets points
+
+**Quelle est votre profession actuelle?**
+- Titre: En un mot ou deux. (Présenté sur votre résumé de profil sur la page d'accueil de la section Membres)
+- Précisez toutes vos activités professionnelles si vous exercez plusieurs activités
 
 **Quels sont vos intérêts sur Bois-le-Roi et en Seine-et-Marne?**
 - Décrivez ici où vous habitez sur Bois-le-Roi, si vous êtes propriétaire, bref vos intérêts personnels et professionnels sur la commune et plus largement en Seine-et-Marne.
@@ -24,5 +25,6 @@ En un ou deux mots.
 - Êtes-vous élu au Conseil Municipal? 
 - Avez-vous participé à une action locale?
 
-**Quelle est votre profession actuelle?**
-- Précisez toutes vos activités professionnelles si vous exercez plusieurs activités
+
+***Je certifie sur l'honneur l'exactitude des informations ci-dessus.***
+***Je reconnais avoir lu la charte de contribution et les règles de discussion et m'engage à les respecter.***
