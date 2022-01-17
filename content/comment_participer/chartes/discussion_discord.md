@@ -13,6 +13,25 @@ weight: 40
 toc: true
 ---
 
-## Article 1
+## Règle 1
 
-***En construction***
+***Parler à visage découvert : Avoir sa vraie photo sur son profil et ne pas utiliser de pseudos***
+
+## Règle 2
+
+***Etre courtois et respectueux des autres et de leurs idées dans les salons de discussion.***
+
+## Règle 3
+
+***Toutes les questions peuvent être posées et débattues.***
+
+## Règle 4
+
+***Ecouter, Ecouter, Ecouter***
+
+## Règle 5
+
+***Ceux qui ne respectent pas les règles précédentes seront bannis des salons de discussion.***
+
+
+*A compléter*
