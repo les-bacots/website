@@ -24,3 +24,7 @@ A compléter.
 - Êtes-vous membre d'une association, d'un collectif, d'un parti politique? 
 - Êtes-vous élu au Conseil Municipal? 
 - Avez-vous participé à une action locale?
+
+
+***Je certifie sur l'honneur l'exactitude des informations ci-dessus.***
+***Je reconnais avoir lu la charte de contribution et les règles de discussion et m'engage à les respecter.***
