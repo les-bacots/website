@@ -1,6 +1,6 @@
 ---
-title : "Chartes de contribution"
-description: "Chartes de contribution"
+title : "Charte de contribution"
+description: "Charte de contribution"
 lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
