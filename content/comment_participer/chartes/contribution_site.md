@@ -15,29 +15,33 @@ toc: true
 
 ## Article 1
 
-Il est interdit de désigner, de critiquer ou d'attaquer des personnes.
+Pour contribuer sur un groupe de travail, il faut se déclarer en tant que contributeur sur ce même groupe de travail.
 
 ## Article 2
 
+Il est interdit de désigner, de critiquer ou d'attaquer des personnes.
+
+## Article 3
+
 Toutes les questions peuvent être posées.
-
-## Article 3 
-
-Toutes les informations doivent être factuelles, documentées et sourcées.
 
 ## Article 4
 
-Pour proposer des idées, des avis, parler uniquement en son nom.
+Toutes les informations doivent être factuelles, documentées et sourcées.
 
 ## Article 5
 
-Pour être publiées, les contributions doivent être validées par au moins ***50%*** des membres contributeurs participants au même groupe de travail.
+Pour proposer des idées, des avis, parler uniquement en son nom.
 
 ## Article 6
 
-Toute publication ne respectant pas la charte de contribution sera retirée du site lesbacots.org.
+Pour être publiées, les contributions doivent être revues et validées par référent.
 
 ## Article 7
+
+Toute publication ne respectant pas la charte de contribution sera retirée du site lesbacots.org.
+
+## Article 8
 
 Toute personne ne respectant pas la charte de contribution pourra voir ses droits de contributeur retirés.
 
