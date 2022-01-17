@@ -1,9 +1,9 @@
 ---
-title : "Chartes de discussion"
-description: "Chartes de discussion"
+title : "Règles de discussion"
+description: "Règles de discussion"
 lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+date: 2022-01-17T18:23:23+00:00
+lastmod: 2022-01-17T18:23:23+00:00
 draft: false
 images: []
 menu:
@@ -13,6 +13,25 @@ weight: 40
 toc: true
 ---
 
-## Article 1
+## Règle 1
 
-***En construction***
+Parler à visage découvert : avoir sa vraie photo sur son profil Discord et ne pas utiliser de pseudo.
+
+## Règle 2
+
+Rester toujours courtois et respectueux des autres dans les salons de discussion. 
+
+## Règle 3
+
+Respecter toutes les idées. Toutes les questions peuvent être posées et débattues.
+
+## Règle 4
+
+Ecouter, Ecouter, Ecouter, Ecouter
+
+## Règle 5
+
+Ceux qui ne respectent pas les règles précédentes seront bannis des salons de discussion.
+
+
+*V1 des règles de discussion publiées le 17/01/2022*
