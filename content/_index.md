@@ -46,7 +46,7 @@ Des **référents** seront également sélectionnés pour aider ceux qui souhait
 
 ## Comment participer ?
 
-Il suffit de rejoindre l'espace de discussion lesbacots.org sur  [Discord]({{< ref "https://discord.gg/3yv5uKBH" >}}) où vous pourrez immédiatement commencer à poser toutes vos questions.
+Il suffit de rejoindre l'espace de discussion lesbacots.org sur  [Discord]({{< ref "/comment_participer/comment_contribuer/discord" >}}) où vous pourrez immédiatement commencer à poser toutes vos questions.
 
 Suite à cela, vous pourrez rejoindre un ou plusieurs groupes de travail pour contribuer.
 
