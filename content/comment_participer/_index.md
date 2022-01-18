@@ -23,7 +23,7 @@ Les **contributeurs** peuvent:
 Pour avoir le droit de discuter sur les salons Discord ou de contribuer sur la base documentaire, il faut devenir **Contributeur**
 
 Pour cela, nous vous demanderons uniquement :
-- de compléter votre profil en ligne,
+- de compléter votre profil en ligne en suivant ce [lien]({{< ref "/devenir_membre" >}}),
 - d'accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
 - de rencontrer physiquement un **référent** (autour d'un café) : pour faire connaissance, s'assurer que vous êtes un habitant de Bois-le-Roi bien réel, vous expliquer comment  les outils fonctionnent, et enfin vous donner vos droits de **contributeur**.
 

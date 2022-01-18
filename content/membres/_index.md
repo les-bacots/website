@@ -7,3 +7,5 @@ lastmod: 2020-10-06T08:50:29+00:00
 draft: false
 images: []
 ---
+
+*Suivez ce lien pour [devenir membre]({{< ref "/devenir_membre" >}}).*

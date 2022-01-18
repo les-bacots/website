@@ -50,7 +50,7 @@ Suite à cela, si vous souhaitez rejoindre un ou plusieurs groupes de travail po
 
 Nous vous demanderons uniquement :
 - d'être habitant de Bois-le-Roi,
-- de compléter votre profil en ligne en toute sincérité,
+- de compléter votre profil en ligne en toute sincérité grâce à ce [formulaire]({{< ref "/devenir_membre" >}}),
 - d'accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
 - de rencontrer physiquement un **référent** (autour d'un café) : pour faire connaissance, s'assurer que vous êtes un habitant de Bois-le-Roi bien réel, vous expliquer comment  les groupes de travail fonctionnent, et enfin vous donner vos droits de **contributeur**.
 
