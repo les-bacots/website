@@ -32,3 +32,7 @@ Ce groupe de travail a pour objectif de tenter de répondre aux questions relati
 ## Membres contributeurs
 
 - Lister ici les personnes qui ont contribué au groupe de travail
+
+## Réunions du groupe de travail
+
+- Lister ici les dates et objets des réunions du groupe de travail (voir CR sur Discord)
