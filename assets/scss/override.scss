@@ -5,3 +5,7 @@
 #formio .form-group {
   margin-top: 20px;
 }
+
+[data-dark-mode] #formio .form-control {
+  background: #1b1f22;
+}
