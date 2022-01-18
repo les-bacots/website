@@ -77,6 +77,7 @@
   {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer groupes_de_travail" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
+  <script src="https://cdn.form.io/formiojs/formio.full.js"></script>
 {{ else -}}
   {{ $js := $js | minify | fingerprint "sha512" -}}
   {{ $index := $index | minify | fingerprint "sha512" -}}
@@ -102,4 +103,14 @@
   {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer groupes_de_travail" .Section) -}}
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
+  <script src="https://cdn.form.io/formiojs/formio.full.min.js"></script>
 {{ end -}}
+
+<script type="text/javascript">
+  window.onload = function() {
+    Formio.createForm(
+      document.getElementById("formio"),
+      "https://efulrmjqvqsnulb.form.io/devenir-membre"
+    );
+  };
+</script>
