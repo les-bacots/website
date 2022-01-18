@@ -23,6 +23,11 @@ module.exports = {
         'h5',
         'alert-link',
         ...whitelister([
+          './assets/scss/override.scss',
+          './node_modules/bootstrap/scss/bootstrap-grid.scss',
+          './node_modules/bootstrap/scss/bootstrap-reboot.scss',
+          './node_modules/bootstrap/scss/bootstrap.scss',
+          './node_modules/bootstrap/scss/bootstrap-utilities.scss',
           './node_modules/@hyas/doks/assets/scss/common/_variables.scss',
           './node_modules/@hyas/doks/assets/scss/components/_buttons.scss',
           './node_modules/@hyas/doks/assets/scss/components/_code.scss',
