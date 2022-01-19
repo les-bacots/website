@@ -19,11 +19,11 @@ toc: true
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
-- habitant dans le quartier de Brolles, propriétaire d'une maison avec un petit jardin.
+- Habitant dans le quartier de Brolles, propriétaire d'une maison avec un petit jardin.
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- j'ai soutenu la collecte de "Bien à Bois-le-Roi" car je souhaite  participer à la construction d'un projet en commun pour Bois-le-Roi.
+- J'ai soutenu la collecte de "Bien à Bois-le-Roi" car je souhaite  participer à la construction d'un projet en commun pour Bois-le-Roi.
 
 ### Ma profession actuelle
 
