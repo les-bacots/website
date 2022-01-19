@@ -35,7 +35,7 @@ Pour proposer des idées, des avis, parler uniquement en son nom.
 
 ## Article 6
 
-Pour être publiées, les contributions doivent être revues et validées par référent.
+Pour être publiées, les contributions doivent être revues et validées par un référent.
 
 ## Article 7
 
