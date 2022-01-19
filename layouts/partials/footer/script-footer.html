@@ -110,7 +110,19 @@
   window.onload = function() {
     Formio.createForm(
       document.getElementById("formio"),
-      "https://efulrmjqvqsnulb.form.io/devenir-membre"
-    );
+      "https://efulrmjqvqsnulb.form.io/devenir-membre",
+      {
+        i18n: {
+          fr: {
+            'error': 'Une erreur a été détectée',
+            'Unauthorized': 'Non autorisé. Un formulaire ne peut être envoyé qu\'une seule fois.',
+            'Please fix the following errors before submitting.': 'Les erreurs suivantes doivent être corrigées.',
+            'Please check the form and correct all errors before submitting.': 'Vérifiez le formulaire et corrigez toutes les erreurs avant d\'envoyer.',
+          }
+        }
+      }
+    ).then((form) => {
+      form.language = 'fr';
+    });
   };
 </script>
