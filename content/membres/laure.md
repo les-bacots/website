@@ -15,8 +15,8 @@ toc: true
 
 ### Qui suis je?
 
-- Née en 1974, mariée
-- Mère de 4 enfants : étudiant, lycéen, collegiens.
+- Née en 1974.
+- Mariée, mère de 4 enfants : étudiant, lycéen, collegiens.
 - Je vie à Bois le Roi depuis 2014. 
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
