@@ -1,7 +1,7 @@
 ---
 title: "Laure Saunier"
-description: "Contributeur lesbacots.org"
-lead: "Contributeur lesbacots.org"
+description: "Référente lesbacots.org"
+lead: "Référente lesbacots.org"
 date: 2021-01-16T22:56:01+02:00
 lastmod: 2021-01-16T22:56:01+02:00
 draft: false
