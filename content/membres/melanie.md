@@ -1,7 +1,7 @@
 ---
 title: "Mélanie Mencarelli"
-description: "Référent lesbacots.org"
-lead: "Référent lesbacots.org"
+description: "Contributrice lesbacots.org"
+lead: "Contributrice lesbacots.org"
 date: 2021-01-16T22:56:01+02:00
 lastmod: 2021-01-16T22:56:01+02:00
 draft: false
