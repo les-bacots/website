@@ -15,20 +15,18 @@ toc: true
 
 ### Qui suis je?
 
-- Arrivés il y a 5 ans à Bois le Roi avec mon mari, 4 enfants.
-- Nous avons tout de suite été séduits par la qualité de vie hors pair entre Seine et forêt. 
+- J'habite à Bois le Roi depuis 5 ans, j'ai 4 enfants. 
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
-- Propriétaires d’une maison près du gymnase que nous avons totalement rénovée en arrivant. C’était une ancienne résidence secondaire.
+- Je suis propriétaire d’une maison près du gymnase que nous avons totalement rénové en arrivant. 
 
 ### Participation à la vie locale de Bois-le-Roi
 
 - Je ne participe à aucune association mais bénéficie avec plaisir des projets mis en place, notamment en terme de sport et de musique.
-- J’ai tout de suite voulu participer à ce projet collaboratif qui a beaucoup de sens aux vues des enjeux importants auxquels sont confrontés Bois le Roi aujourd’hui!
+- J’ai tout de suite voulu m'investir dans ce projet collaboratif qui a beaucoup de sens aux vues des enjeux importants auxquels est confronté Bois le Roi aujourd’hui!
 
 ### Ma profession actuelle
 
-- Je suis Directrice adjointe dans un Bureau d’études spécialisés dans la voirie et les travaux publics.
-Petite entreprise familiale créée par mon mari il y a 10 ans, je l’ai rejoins dans l’aventure pour aider au développement.
-- Nos bureaux sont basés à Fontainebleau et nous travaillons sur toute l’Ile de France et dans l’Ouest.
+- Je suis Directrice adjointe dans un Bureau d’études spécialisé dans la voirie et les travaux publics.
+Petite entreprise familiale créée par mon mari il y a 10 ans, je l’ai rejoints dans l’aventure pour participer au développement.
