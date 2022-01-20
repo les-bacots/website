@@ -85,10 +85,10 @@ Plus bas on trouve la différence entre l'ancienne version de la page et la nouv
 
 ![Creation de la contribution #3](images/creation-de-la-contribution-3.png "Creation de la contribution #3")
 
-## Félicitation
+## Félicitations
 
-Félicitation vous venez de créer votre première contribution.
+Félicitations, vous venez de créer votre première contribution !
 
 Les référents du projet vont recevoir une notification et relire cette contribution. Des questions, ou des retours, peuvent être fait.
 
-Une fois la contribution validée, elle sera incluse dans la branche principale du projet. A chaque mise à jour de la branche principale le site est republié.
+Une fois la contribution validée, celle-ci sera incluse dans la branche principale du projet. A chaque mise à jour de la branche principale, le site est republié et le contenu devient donc accessible à tous les visiteurs du site.
