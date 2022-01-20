@@ -17,12 +17,12 @@ toc: true
 
 - Née en 1974.
 - Mariée, mère de 4 enfants : étudiant, lycéen, collegiens.
-- Je vie à Bois le Roi depuis 2014. 
+- Je vis à Bois-le-Roi depuis 2014. 
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
 - Je suis propriétaire d'une maison rue de la croix de vitry, quartier de Brolles.
-- Je déclare n'avoir aucun intérêt sur Bois-le-Roi et ds mon département. 
+- Je déclare n'avoir aucun intérêt sur Bois-le-Roi et dans mon département. 
 
 ### Participation à la vie locale de Bois-le-Roi
 
