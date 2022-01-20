@@ -123,6 +123,9 @@
       }
     ).then((form) => {
       form.language = 'fr';
+      form.on('submitDone', function(submission) {
+          window.location = '/devenir_membre/succes/';
+      });
     });
   };
 </script>
