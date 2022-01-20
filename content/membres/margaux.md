@@ -29,4 +29,4 @@ toc: true
 ### Ma profession actuelle
 
 - Je suis Directrice adjointe dans un Bureau d’études spécialisé dans la voirie et les travaux publics.
-Petite entreprise familiale créée par mon mari il y a 10 ans, je l’ai rejoints dans l’aventure pour participer au développement.
+Petite entreprise familiale créée par mon mari il y a 10 ans, je l’ai rejoint dans l’aventure pour participer au développement.
