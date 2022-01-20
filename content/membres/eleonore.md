@@ -20,11 +20,11 @@ toc: true
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
 - Propriétaire à Bois le roi depuis 2006.
-- Toute notre famille profite des nombreuses offres associatives en matière de sport et de musique
+- Membre d'aucune association ou collectif.
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- Membre d'aucune association ou collectif. 
+- Toute notre famille profite des nombreuses offres associatives en matière de sport et de musique 
 
 ### Ma profession actuelle
 
