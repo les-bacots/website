@@ -19,7 +19,7 @@ Pour contribuer sur un groupe de travail, il faut se déclarer en tant que contr
 
 ## Article 2
 
-Les contributions doivent s'intégrer dans une démarche assertive sans dénigrement, ni désignation, ni critique ou d'attaque des personnes.
+Les contributions doivent s'intégrer dans une démarche assertive sans dénigrement, ni désignation, ni critique ou attaque des personnes.
 
 ## Article 3
 
