@@ -1,5 +1,5 @@
 ---
-title: "Raul Risi"
+title: "Gilles Gavalda"
 description: "Contributeur lesbacots.org"
 lead: "Contributeur lesbacots.org"
 date: 2021-01-16T22:56:01+02:00
