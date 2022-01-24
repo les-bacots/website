@@ -35,6 +35,7 @@
             {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
             {{- $active = or $active (eq .Name $current.Title) -}}
             {{- $active = or $active (and (eq .Name "Groupes de travail") (eq $current.Section "groupes_de_travail")) -}}
+            {{- $active = or $active (and (eq .Name "Projets") (eq $current.Section "projets")) -}}
             {{- $active = or $active (and (eq .Name "Comment participer ?") (eq $current.Section "comment_participer")) -}}
             {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog")) -}}
             {{- $active = or $active (and (eq .Name "Membres") (eq $current.Section "membres")) -}}

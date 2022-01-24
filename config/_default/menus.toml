@@ -4,6 +4,11 @@
   url = "/groupes_de_travail/"
 
 [[main]]
+  name = "Projets"
+  weight = 20
+  url = "/projets/"
+
+[[main]]
   name = "Comment participer ?"
   weight = 30
   url = "/comment_participer/"
