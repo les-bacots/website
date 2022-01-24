@@ -36,11 +36,6 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - uses: actions/upload-artifact@v2
-        with:
-          name: les-bacots.github.io-${{ github.sha }}
-          path: public/
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
