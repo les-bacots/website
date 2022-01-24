@@ -101,6 +101,12 @@
   identifier = "budget"
   url = "/groupes_de_travail/budget/"
 
+[[projets]]
+  name = "La Focel"
+  weight = 10
+  identifier = "la_focel"
+  url = "/projets/la_focel/"
+
 [[comment_participer]]
   name = "Comment contribuer ?"
   weight = 10
