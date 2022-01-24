@@ -29,7 +29,7 @@
     {{ if .HasChildren -}}
     <ul class="list-unstyled">
       {{ range .Children -}}
-        {{- $active := or ($currentPage.IsMenuCurrent "groupes_de_travail" .) ($currentPage.HasMenuCurrent "projets" .) -}}
+        {{- $active := or ($currentPage.IsMenuCurrent "projets" .) ($currentPage.HasMenuCurrent "projets" .) -}}
         {{- $active = or $active (eq $currentPage.Section .Identifier) -}}
         <li><a class="docs-link{{ if $active }} active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end -}}
