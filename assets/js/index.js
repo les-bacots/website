@@ -100,7 +100,7 @@ Source:
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
   {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes_de_travail") -}}
   {{ $projets_list := (where .Site.Pages "Section" "projets") -}}
-  {{ $projets_list := (where .Site.Pages "Section" "annuaire") -}}
+  {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
 
   index
     {{ range $index, $element := $blog_list -}}
