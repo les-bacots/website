@@ -13,4 +13,19 @@ weight: 30
 toc: true
 ---
 
-*Description de l'association à compléter*
+**Site internet :** Aucun
+
+### Objet de l'association
+*A compléter*
+
+### Membres du Bureau 
+*A compléter*
+
+### Nombre d'adhérants 
+*A compléter*
+
+### Publications & Actions
+*A compléter*
+
+### Budget annuel (si publics)
+*A compléter*
