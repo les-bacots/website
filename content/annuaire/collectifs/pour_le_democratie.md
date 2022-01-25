@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   annuaire:
-    parent: "collectif"
+    parent: "collectifs"
 weight: 20
 toc: true
 ---
