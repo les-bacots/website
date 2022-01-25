@@ -9,3 +9,7 @@ images: []
 toc: true
 weight: 130
 ---
+
+Cette section *Projets* doit permettre de décrire les projets d'actualité portés par  la Mairie et les habitants de Bois-le-Roi.
+
+*Les porteurs de projets sont invités à se manifester pour créer ici leur page d'information.*
