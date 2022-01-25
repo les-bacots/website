@@ -99,6 +99,8 @@ Source:
   {{ $membres_list := (where .Site.Pages "Section" "membres") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
   {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes_de_travail") -}}
+  {{ $projets_list := (where .Site.Pages "Section" "projets") -}}
+  {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
 
   index
     {{ range $index, $element := $blog_list -}}
@@ -144,6 +146,34 @@ Source:
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
     {{ range $index, $element := $groupes_de_travail_list -}}
+    .add({
+        id: {{ $all_index }},
+        href: "{{ .RelPermalink }}",
+        title: {{ .Title | jsonify }},
+        {{ with .Description -}}
+          description: {{ . | jsonify }},
+        {{ else -}}
+          description: {{ .Summary | plainify | jsonify }},
+        {{ end -}}
+        content: {{ .Plain | jsonify }}
+    })
+    {{ $all_index = (add $all_index 1) -}}
+    {{ end -}}
+    {{ range $index, $element := $projets_list -}}
+    .add({
+        id: {{ $all_index }},
+        href: "{{ .RelPermalink }}",
+        title: {{ .Title | jsonify }},
+        {{ with .Description -}}
+          description: {{ . | jsonify }},
+        {{ else -}}
+          description: {{ .Summary | plainify | jsonify }},
+        {{ end -}}
+        content: {{ .Plain | jsonify }}
+    })
+    {{ $all_index = (add $all_index 1) -}}
+    {{ end -}}
+    {{ range $index, $element := $annuaire_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",

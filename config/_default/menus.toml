@@ -4,6 +4,11 @@
   url = "/groupes_de_travail/"
 
 [[main]]
+  name = "Projets"
+  weight = 20
+  url = "/projets/"
+
+[[main]]
   name = "Comment participer ?"
   weight = 30
   url = "/comment_participer/"
@@ -17,6 +22,11 @@
   name = "Membres"
   url = "/membres/"
   weight = 50
+
+[[main]]
+  name = "Annuaire"
+  url = "/annuaire/"
+  weight = 60
 
 [[groupes_de_travail]]
   name = "Démographie et Logements"
@@ -96,6 +106,12 @@
   identifier = "budget"
   url = "/groupes_de_travail/budget/"
 
+[[projets]]
+  name = "La Focel"
+  weight = 10
+  identifier = "la_focel"
+  url = "/projets/la_focel/"
+
 [[comment_participer]]
   name = "Comment contribuer ?"
   weight = 10
@@ -119,6 +135,30 @@
   weight = 10
   identifier = "membres"
   url = "/membres/"
+
+[[annuaire]]
+  name = "Conseil Municipal"
+  weight = 10
+  identifier = "conseil_municipal"
+  url = "/annuaire/conseil_municipal/"
+
+[[annuaire]]
+  name = "Associations"
+  weight = 20
+  identifier = "associations"
+  url = "/annuaire/associations/"
+
+[[annuaire]]
+  name = "Collectifs"
+  weight = 30
+  identifier = "collectifs"
+  url = "/annuaire/collectifs/"
+
+[[annuaire]]
+  name = "Listes Municipales 2020"
+  weight = 40
+  identifier = "listes_2020"
+  url = "/annuaire/listes_2020/"
 
 [[social]]
   name = "GitHub"
