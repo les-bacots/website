@@ -140,25 +140,25 @@
   name = "Conseil Municipal"
   weight = 10
   identifier = "conseil_municipal"
-  url = "/projets/conseil_municipal/"
+  url = "/annuaire/conseil_municipal/"
 
 [[annuaire]]
   name = "Associations"
   weight = 20
   identifier = "associations"
-  url = "/projets/associations/"
+  url = "/annuaire/associations/"
 
 [[annuaire]]
   name = "Collectifs"
   weight = 30
   identifier = "collectifs"
-  url = "/projets/collectifs/"
+  url = "/annuaire/collectifs/"
 
 [[annuaire]]
   name = "Listes Municipales 2020"
   weight = 40
   identifier = "listes_2020"
-  url = "/projets/listes_2020/"
+  url = "/annuaire/listes_2020/"
 
 [[social]]
   name = "GitHub"
