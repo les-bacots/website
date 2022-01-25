@@ -18,7 +18,8 @@ toc: true
 
 ### Objet du collectif
 lesbacots.org est **un collectif d'habitants de Bois-le-Roi** qui s'intéresse à **la vie et au futur de notre commune**.
-Le collectif est entièrement organisé de façon **collaborative et transparente** autour de groupes de travail qui traitent de thèmes de fond et d'actualité.
+Le collectif est entièrement organisé de façon **collaborative et transparente** autour de groupes de travail qui traitent aussi bien de thèmes de fond que de questions d'actualité.
+
 Il est **ouvert à tous**.
 
 ### Membres principaux
