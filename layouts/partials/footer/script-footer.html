@@ -74,7 +74,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer groupes_de_travail projets" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer groupes_de_travail projets annuaire" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
   <script src="https://cdn.form.io/formiojs/formio.full.js"></script>
@@ -100,7 +100,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" integrity="{{ $mermaid.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer groupes_de_travail projets" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer groupes_de_travail projets annuaire" .Section) -}}
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
   <script src="https://cdn.form.io/formiojs/formio.full.min.js"></script>

@@ -23,6 +23,11 @@
   url = "/membres/"
   weight = 50
 
+[[main]]
+  name = "Annuaire"
+  url = "/annuaire/"
+  weight = 60
+
 [[groupes_de_travail]]
   name = "Démographie et Logements"
   weight = 10
@@ -130,6 +135,30 @@
   weight = 10
   identifier = "membres"
   url = "/membres/"
+
+[[annuaire]]
+  name = "Conseil Municipal"
+  weight = 10
+  identifier = "conseil_municipal"
+  url = "/projets/conseil_municipal/"
+
+[[annuaire]]
+  name = "Associations"
+  weight = 20
+  identifier = "associations"
+  url = "/projets/associations/"
+
+[[annuaire]]
+  name = "Collectifs"
+  weight = 30
+  identifier = "collectifs"
+  url = "/projets/collectifs/"
+
+[[annuaire]]
+  name = "Listes Municipales 2020"
+  weight = 40
+  identifier = "listes_2020"
+  url = "/projets/listes_2020/"
 
 [[social]]
   name = "GitHub"
