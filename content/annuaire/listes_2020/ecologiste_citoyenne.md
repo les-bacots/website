@@ -14,6 +14,7 @@ toc: true
 ---
 
 **Site internet :** [https://blr2020leec.wixsite.com/website](https://blr2020leec.wixsite.com/website) 
+
 **Page facebook :** [https://www.facebook.com/BLR2020LEEC/](https://www.facebook.com/BLR2020LEEC/)
 
 ### Score électoral aux Municipales 2020

@@ -14,6 +14,7 @@ toc: true
 ---
 
 **Site internet :** [https://www.unispourblr.fr/](https://www.unispourblr.fr/) 
+
 **Page facebook :** [https://www.facebook.com/unispourblr/](https://www.facebook.com/unispourblr/)
 
 ***Liste élue pour la mandature 2020-2026***
