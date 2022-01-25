@@ -13,11 +13,11 @@ images: []
 Les **lecteurs** (tout le monde) peuvent :
 - Consulter l'ensemble de la base documentaire sur lesbacots.org.
 - Voir l'ensemble des discussions du collectif sur [Discord]({{< ref "/comment_participer/comment_contribuer/discord" >}}), elles sont publiques et visibles de tous.
-- Tracer à tout moment sur https://github.com/les-bacots/les-bacots.github.io l'historique de l'ensemble des contributions et revues relatives aux contenus disponibles sur la base documentaire.
+- Tracer à tout moment sur [GitHub](https://github.com/les-bacots/les-bacots.github.io) l'historique de l'ensemble des contributions et revues relatives aux contenus disponibles sur la base documentaire.
 
 Les **contributeurs** peuvent:
-- Discuter dans l'ensemble des salons de discussion du collectif à partir du moment où ils respectent les règles de discussion (ajouter le lien)
-- Editer l'ensemble des pages du site lesbacots.org à partir du moment où ils respectent la charte de contribution (ajouter le lien).
+- Discuter dans l'ensemble des salons de discussion du collectif à partir du moment où ils respectent les [règles de discussion](https://www.lesbacots.org/comment_participer/chartes/discussion_discord/)
+- Editer l'ensemble des pages du site lesbacots.org à partir du moment où ils respectent la [charte de contribution](https://www.lesbacots.org/comment_participer/chartes/contribution_site/).
 
 ## Comment devenir contributeur ?
 Pour avoir le droit de discuter sur les salons Discord ou de contribuer sur la base documentaire, il faut devenir **Contributeur**
