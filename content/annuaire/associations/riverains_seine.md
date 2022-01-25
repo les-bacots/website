@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   projets:
-    parent: "associations"
+    annuaire: "associations"
 weight: 30
 toc: true
 ---
