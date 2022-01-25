@@ -13,7 +13,7 @@ weight: 20
 toc: true
 ---
 
-**Site internet :** [https://www.facebook.com/democratie.blr](https://www.facebook.com/democratie.blr) 
+**Page Facebook :** [https://www.facebook.com/democratie.blr](https://www.facebook.com/democratie.blr) 
 
 ### Objet du collectif
 *A compléter*
