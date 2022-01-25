@@ -1,5 +1,5 @@
 ---
-title: "Réussir ensemble avec les Bacots"
+title: "Liste Ecologiste et Citoyenne"
 description: "Liste Candidate aux Municipales 2020"
 lead: "Liste Candidate aux Municipales 2020"
 date: 2020-10-13T15:21:01+02:00
