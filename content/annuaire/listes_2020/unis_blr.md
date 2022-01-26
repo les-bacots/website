@@ -20,7 +20,9 @@ toc: true
 ***Liste élue pour la mandature 2020-2026***
 
 ### Score électoral aux Municipales 2020
-*à compléter*
+822 Voix - **36,73%**
+source : [https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/](https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/)
+
 
 ### Membres sur la liste
 *Liste des élus à compléter*

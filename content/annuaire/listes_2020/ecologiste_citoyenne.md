@@ -18,7 +18,9 @@ toc: true
 **Page facebook :** [https://www.facebook.com/BLR2020LEEC/](https://www.facebook.com/BLR2020LEEC/)
 
 ### Score électoral aux Municipales 2020
-*à compléter*
+695 Voix - **31,05%**
+source : [https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/](https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/)
+
 
 ### Membres sur la liste
 *Liste des élus à compléter*
