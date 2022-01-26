@@ -17,8 +17,10 @@ toc: true
 
 **Page facebook :** [https://www.facebook.com/ReussirEnsembleablr/](https://www.facebook.com/ReussirEnsembleablr/)
 
-### Score électoral aux Municipales 2020
-*à compléter*
+### Score électoral aux Municipales 2020 (2e tour)
+721 Voix - **32,22%**
+source : [https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/](https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/)
+
 
 ### Membres sur la liste
 *Liste des élus à compléter*
