@@ -24,6 +24,36 @@ toc: true
 source : [https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/](https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/)
 
 
-### Membres sur la liste
-*Liste des élus à compléter*
+### Composition de la liste
+
+- David DINTILHAC - **Elu**
+- Nathalie VINOT - **Elu**
+- Thierry REYJAL - **Elu**
+- Sandrine-Magali BELMIN - **Elu**
+- Ollivier HLAVAC - **Elu**
+- Pauline CUSSEAU - **Elu**
+- Jean-Philippe GUIBERT - **Elu**
+- Laure AVELINE - **Elu**
+- David DE OLIVEIRA - **Elu**
+- Karine JALENQUES - **Elu**
+- Damien BORDEREAUX - **Elu**
+- Emmanuelle ALHADEF - **Elu**
+- Yves FONTANES - **Elu**
+- Mélanie MOUSSOURS - **Elu**
+- Jean-Claude BARBES - **Elu**
+- Irène STRAJNIC - **Elu**
+- Patrick ROTH - **Elu**
+- Elisabeth BOYER - **Elu**
+- Didier DURAND - **Elu**
+- Alexandra BUSTEAU - **Elu**
+- Laurent ACHARD
+- Iris FERREIRA DOS SANTOS
+- Nicolas MAUCLERT
+- Anne DEKKER
+- Antonius MOONEN
+- Michèle SALIOT
+- Lionnel WISNIEWSKI
+- Valérie BONTEMPS
+- Santiago CANCER
+- Marie-Charlotte NAUDOT
 
