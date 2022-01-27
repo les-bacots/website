@@ -72,7 +72,7 @@ toc: true
 - **Nicolas MAUCLERT**
   - Conseiller municipal
 - **Elisabeth BOYER**
-  - Conseiller municipal
+  - Conseillère municipal
 - **Jean-Claude BARBES**
   - Conseiller municipal
 - **Laurent ACHARD**
