@@ -22,7 +22,7 @@ Une fois que les changements sont revus et approuvés, ils sont publiés dans le
 
 Pour la gestion des contenus du site *lesbacots.org* nous proposons d'utiliser l'outil GitHub d'une façon simple et efficace.
 
-Le seul pré-requis pour faire une contribution avec *GitHub* est la nécessité d'avoir un compte utilisateur. Cette inscription peut-être réalisée à cette url [https://github.com/signup](https://github.com/signup).
+Le seul pré-requis pour faire une contribution sur lesbacots.org avec *GitHub* est la nécessité d'avoir un compte utilisateur GitHub ainsi qu'un profil publié sur lesbacots.org pour obtenir les droits de contribution. Cette inscription peut-être réalisée à cette url [https://github.com/signup](https://github.com/signup) et votre profil peut-être renseigné via ce [formulaire](https://www.lesbacots.org/devenir_membre/).
 
 | :memo: [documentation pour l'inscription](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) |
 |---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -70,7 +70,7 @@ texte normal
 
 ### Créer la contribution
 
-Une fois le contenu mis à jour, la creation de la contribution s'effectue en cliquant sur le bouton `Commit changes` en bas.
+Une fois le contenu mis à jour, la création de la contribution s'effectue en cliquant sur le bouton `Commit changes` en bas.
 
 ![Creation de la contribution #1](images/creation-de-la-contribution-1.png "Creation de la contribution #1")
 
@@ -91,4 +91,4 @@ Félicitations, vous venez de créer votre première contribution !
 
 Les référents du projet vont recevoir une notification et relire cette contribution. Des questions, ou des retours, peuvent être fait.
 
-Une fois la contribution validée, celle-ci sera incluse dans la branche principale du projet. A chaque mise à jour de la branche principale, le site est republié et le contenu devient donc accessible à tous les visiteurs du site.
+Une fois la contribution validée, celle-ci sera incluse dans la branche principale du site. A chaque mise à jour de la branche principale, le site est republié et le contenu devient donc accessible à tous les visiteurs du site.
