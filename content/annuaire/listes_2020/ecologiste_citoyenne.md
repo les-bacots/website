@@ -21,6 +21,36 @@ toc: true
 695 Voix - **31,05%**
 source : [https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/](https://www.lemonde.fr/resultats-elections/bois-le-roi-77037/)
 
+### Composition de la liste
 
-### Membres sur la liste
-*Liste des élus à compléter*
+- Camille Gire - **Elu**
+- Jean-Luc PERRIN - **Elu**
+- Dominique VETTESSE - **Elu**
+- Brice DUTHION  - **Elu**
+- Dominique POULLOT
+- Pierre-Antoine VERSINI
+- Céline MOULYS
+- Julien DUPUIS
+- Marion HENRY
+- Guillaume AVENIN
+- Corinne GUÉRIN
+- Manuel MANJON
+- Fanchon PAILLER
+- Eric LAFFAILLE
+- Astrid RONZEL
+- Christophe DELORT
+- Solange BLAIS
+- Rolland BONY
+- Catherine FUHRMANN
+- Vincent CHAUDAT
+- Laetitia TROTOUIN
+- Eric COUPAT
+- Florence PERRIN
+- Guillaume GIRAUD
+- Annie SICRE
+- Olivier JULLIEN
+- Eveline EQUENOT
+- Jacky ROZO
+- Audrey GUILLEMOT
+- Yves CROUZILLAS
+- Monique BAYET

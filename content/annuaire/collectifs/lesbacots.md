@@ -22,6 +22,9 @@ Le collectif est entièrement organisé de façon **collaborative et transparent
 
 Il est **ouvert à tous**.
 
+Le collectif est **indépendant et transpartisan**.
+En cas de besoin, il est **uniquement financé par les dons de ses membres**.
+
 ### Membres principaux
 [Voir section Membres](https://www.lesbacots.org/membres/)
 
