@@ -34,5 +34,7 @@ Le collectif est **indépendant et transpartisan**.
 Tout ce qui est discuté sur les salons Discord et publié sur ce site.
 
 ### Budget & Financement
-Gratuit, pas de cotisation demandé, pas de financement sollicité.
-En cas de besoin, il est **uniquement financé par les dons de ses membres**.
+
+**Budget de démarrage :** 10,79€ pour l'achat du nom de domaine.
+Accès Gratuit, pas de cotisation demandée, pas de financement sollicité.
+En cas de besoin et pour garder son indépendance, il est **uniquement financé par les dons de ses membres**.
