@@ -47,6 +47,6 @@ Toute personne ne respectant pas la charte de contribution pourra voir ses droit
 
 ## Article 9
 
-Toute contribution partisane ou tentative de récupération politique sera dénoncée.
+Toute contribution partisane ou tentative de récupération politique devra être dénoncée.
 
 ***Version V2 de la charte publiée le 28/01/2022***
