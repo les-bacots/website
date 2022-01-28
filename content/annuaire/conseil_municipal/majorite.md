@@ -40,6 +40,8 @@ toc: true
 - **Yves FONTANES**
   - 6ème adjoint au Maire
   - Chargé de la culture, des manifestations et de la vie associative
+- 'Jean-Philippe GUIBERT - Démission le JJ-MM-AAAA'
+  - 'Déléguée aux affaires scolaires et périscolaires'
 - **Laure AVELINE**
   - 7ème Adjointe au Maire
   - Chargée des affaires scolaires et périscolaires
@@ -79,7 +81,7 @@ toc: true
   - Conseiller municipal
 
 ### Anciens adjoints et conseillers démissionaires
-- **Jean-Philippe GUIBERT - Démission le JJ-MM-AAAA**
+
 - **Karine JALENQUES - Démission le JJ-MM-AAAA**
 - **Irène STRAJNIC - Démission le JJ-MM-AAAA**
-- **Alexandra BUSTEAU - Démission le JJ-MM-AAAA**
+- **Alexandra BUSTEAU - Démission le 16-12-2021**
