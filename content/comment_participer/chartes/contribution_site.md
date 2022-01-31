@@ -2,8 +2,8 @@
 title : "Charte de contribution"
 description: "Charte de contribution"
 lead: ""
-date: 2022-01-17T18:17:23+00:00
-lastmod: 2022-01-17T18:17:23+00:00
+date: 2022-01-28T22:56:23+00:00
+lastmod: 2022-01-28T22:56:23+00:00
 draft: false
 images: []
 menu:
@@ -45,4 +45,8 @@ Toute publication ne respectant pas la charte de contribution sera retirée du s
 
 Toute personne ne respectant pas la charte de contribution pourra voir ses droits de contributeur retirés.
 
-***Version V1 de la charte publiée le 17/01/2022***
+## Article 9
+
+Toute contribution partisane ou tentative de récupération politique devra être dénoncée.
+
+***Version V2 de la charte publiée le 28/01/2022***
