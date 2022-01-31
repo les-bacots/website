@@ -33,6 +33,8 @@ toc: true
   - Conseiller municipal
 - **Dominique VETTESE**
   - Conseillère municipale
+- `Brice DUTHION - Démission pour cause de déménagement le JJ-MM-AAAA`
+  - `Conseiller municipal`
 - **Dominique POULLOT**
   - Conseillère municipale
 
