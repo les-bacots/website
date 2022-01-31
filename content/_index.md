@@ -61,7 +61,7 @@ Suite à cela, vous pourrez rejoindre un ou plusieurs groupes de travail pour co
 
 Les conditions pour participer sont les suivantes :
 - être habitant de Bois-le-Roi,
-- compléter votre profil en ligne en toute sincérité grâce à au [formulaire]({{< ref "/devenir_membre" >}}),
+- compléter votre profil en ligne en toute sincérité grâce au [formulaire]({{< ref "/devenir_membre" >}}),
 - accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
 - rencontrer physiquement un **référent** (autour d'un café) : pour faire connaissance, s'assurer que vous êtes un habitant de Bois-le-Roi bien réel, vous expliquer comment  les groupes de travail fonctionnent, et enfin vous donner vos droits de **contributeur**.
 
