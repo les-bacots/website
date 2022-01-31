@@ -27,7 +27,7 @@ toc: true
 ### Publications & Actions
 *A compléter*
 
-### Budget annuel (si publics)
+### Budget & Financement
 *A compléter*
 
 
