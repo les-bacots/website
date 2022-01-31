@@ -20,10 +20,14 @@ C'est un outil qui permet à des millions de développeurs dans le monde de écr
 Toutes les demandes et les actions sont tracées dans des questions et des demandes de changements.
 Une fois que les changements sont revus et approuvés, ils sont publiés dans les documents de référence.
 
-Pour la gestion des contenus du site d'information *lesbacots.org* nous proposons d'utiliser l'outil GitHub d'une façon simple et efficace.
+Pour la gestion des contenus du site d'information *lesbacots.org* nous proposons donc d'utiliser l'outil GitHub d'une façon simple et efficace.
 
-L'espace `lesbacots.org` sur GitHub accessible à l'adresse [github.lesbacots.org](https://github.com/les-bacots/les-bacots.github.io) est donc la salle de rédaction du site d'information où sont rédigées puis ensuite revues et validées les publications qui sont mises en ligne sur le site internet public [lesbacots.org](https://www.lesbacots.org/). 
+L'espace `lesbacots.org` sur GitHub est accessible à l'adresse [github.lesbacots.org](https://github.com/les-bacots/les-bacots.github.io)
 
+Il imaginer qu'il s'agit de la salle de rédaction où sont rédigées puis ensuite revues et validées les publications qui sont mises en ligne sur le site internet public [lesbacots.org](https://www.lesbacots.org/). 
+
+Ca peut paraitre un peu technique mais **c'est ce qui garantie la traçabilité de l'ensemble des informations publiées**.
+Ne vous inquiétez pas si vous ne comprenez pas comment tout fonctionne, nos référents seront là pour tout vous expliquer dans le salon Discord `#support` et si besoin lors d'une rencontre physique.
 
 Le seul pré-requis pour faire une contribution sur lesbacots.org avec *GitHub* est la nécessité d'avoir un compte utilisateur GitHub ainsi qu'un profil publié sur lesbacots.org pour obtenir les droits de contribution. Cette inscription peut-être réalisée à cette url [https://github.com/signup](https://github.com/signup) et votre profil peut-être renseigné via ce [formulaire](https://www.lesbacots.org/devenir_membre/).
 
