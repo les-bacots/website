@@ -18,4 +18,4 @@ Les discussions sont regroupées par salons. Elles sont publiques et historisée
 
 ***En Construction***
 
-Nous allons décrire ici comment utiliser au mieux cet outil dans le cadre des échanges collaboratifs du collectif.
+Nous allons décrire ici comment utiliser au mieux cet outil dans le cadre des échanges collaboratifs du média.

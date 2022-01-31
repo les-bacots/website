@@ -8,15 +8,15 @@ draft: false
 images: []
 ---
 
-## Le collectif lesbacots.org est ouvert à tous les habitants de Bois-le-Roi, sans exception. ##
+## Le média lesbacots.org est ouvert à tous les habitants de Bois-le-Roi, sans exception. ##
 
 Les **lecteurs** (tout le monde) peuvent :
 - Consulter l'ensemble de la base documentaire sur lesbacots.org.
-- Voir l'ensemble des discussions du collectif sur [Discord]({{< ref "/comment_participer/comment_contribuer/discord" >}}), elles sont publiques et visibles de tous.
+- Voir l'ensemble des discussions du média sur [Discord]({{< ref "/comment_participer/comment_contribuer/discord" >}}), elles sont publiques et visibles de tous.
 - Tracer à tout moment sur [GitHub](https://github.com/les-bacots/les-bacots.github.io) l'historique de l'ensemble des contributions et revues relatives aux contenus disponibles sur la base documentaire.
 
 Les **contributeurs** peuvent:
-- Discuter dans l'ensemble des salons de discussion du collectif à partir du moment où ils respectent les [règles de discussion](https://www.lesbacots.org/comment_participer/chartes/discussion_discord/)
+- Discuter dans l'ensemble des salons de discussion du média à partir du moment où ils respectent les [règles de discussion](https://www.lesbacots.org/comment_participer/chartes/discussion_discord/)
 - Editer l'ensemble des pages du site lesbacots.org à partir du moment où ils respectent la [charte de contribution](https://www.lesbacots.org/comment_participer/chartes/contribution_site/).
 
 ## Comment devenir contributeur ?

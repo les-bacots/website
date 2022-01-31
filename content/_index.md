@@ -37,7 +37,7 @@ Toutes les données, les idées et les propositions disponibles sur cette base d
 
 ## Qui peut contribuer ?
 
-Ce collectif est ***ouvert à tous les Bacots, sans exception***.
+Ce média est ***ouvert à tous les Bacots, sans exception***.
 
 Aussi bien en tant que **lecteurs** :
 

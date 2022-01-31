@@ -26,7 +26,7 @@ toc: true
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- Je soutiens le collectif pour mieux appréhender l'avenir de ma commune et construire un projet partagé.
+- Je soutiens le media lesbacots.org pour mieux appréhender l'avenir de ma commune et construire un projet partagé.
 
 ### Ma profession actuelle
 
