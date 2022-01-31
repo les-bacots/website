@@ -22,7 +22,7 @@ Il est **indépendant et bénévole**. Ne reçoit aucun financement de la part d
 
 Il est **ouvert au plus grand nombre, y compris aux élus Bacots qui peuvent s'y exprimer en leur nom, mais toute tentative de récupération politique ou partisane sera dénoncée par la communauté.**
 
-Les contributeurs sont répartis en **groupes de travail** qui rassemblent et produisent des **Informations d'Orgine Controllée (IOC)** qui sont revues et partagées ici, à la manière d'un *wiki*.
+Les contributeurs sont répartis en **groupes de travail** qui rassemblent et produisent des **Informations d'Origine Controllée (IOC)** qui sont revues et partagées ici, à la manière d'un *wiki*.
 
 Toutes les données, les idées et les propositions disponibles sur cette base documentaire sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
 
