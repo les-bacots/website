@@ -1,12 +1,12 @@
 [[main]]
-  name = "Groupes de travail"
+  name = "Projets"
   weight = 10
-  url = "/groupes_de_travail/"
+  url = "/projets/"
 
 [[main]]
-  name = "Projets"
+  name = "Rubriques"
   weight = 20
-  url = "/projets/"
+  url = "/rubriques/"
 
 [[main]]
   name = "Comment participer ?"
@@ -28,83 +28,83 @@
   url = "/annuaire/"
   weight = 60
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Démographie et Logements"
   weight = 10
   identifier = "demographie_logements"
-  url = "/groupes_de_travail/demographie_logements/"
+  url = "/rubriques/demographie_logements/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Santé"
   weight = 20
   identifier = "sante"
-  url = "/groupes_de_travail/sante/"
+  url = "/rubriques/sante/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Enfance et Éducation"
   weight = 30
   identifier = "enfance_education"
-  url = "/groupes_de_travail/enfance_education/"
+  url = "/rubriques/enfance_education/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Biodiversité"
   weight = 40
   identifier = "biodiversite"
-  url = "/groupes_de_travail/biodiversite/"
+  url = "/rubriques/biodiversite/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Climat"
   weight = 50
   identifier = "climat"
-  url = "/groupes_de_travail/climat/"
+  url = "/rubriques/climat/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Culture"
   weight = 60
   identifier = "culture"
-  url = "/groupes_de_travail/culture/"
+  url = "/rubriques/culture/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Économie"
   weight = 70
   identifier = "economie"
-  url = "/groupes_de_travail/economie/"
+  url = "/rubriques/economie/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Mobilité et Voiries"
   weight = 80
   identifier = "mobilite_voiries"
-  url = "/groupes_de_travail/mobilite_voiries/"
+  url = "/rubriques/mobilite_voiries/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Sport et Loisirs"
   weight = 90
   identifier = "sport_loisirs"
-  url = "/groupes_de_travail/sport_loisirs/"
+  url = "/rubriques/sport_loisirs/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Foncier"
   weight = 100
   identifier = "foncier"
-  url = "/groupes_de_travail/foncier/"
+  url = "/rubriques/foncier/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Gestion des déchets"
   weight = 110
   identifier = "gestion_dechets"
-  url = "/groupes_de_travail/gestion_dechets/"
+  url = "/rubriques/gestion_dechets/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Alimentation"
   weight = 120
   identifier = "alimentation"
-  url = "/groupes_de_travail/alimentation/"
+  url = "/rubriques/alimentation/"
 
-[[groupes_de_travail]]
+[[rubriques]]
   name = "Budget"
   weight = 130
   identifier = "budget"
-  url = "/groupes_de_travail/budget/"
+  url = "/rubriques/budget/"
 
 [[projets]]
   name = "La Focel"

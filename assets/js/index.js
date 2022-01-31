@@ -98,7 +98,7 @@ Source:
   {{ $blog_list := (where .Site.Pages "Section" "blog") -}}
   {{ $membres_list := (where .Site.Pages "Section" "membres") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
-  {{ $groupes_de_travail_list := (where .Site.Pages "Section" "groupes_de_travail") -}}
+  {{ $rubriques_list := (where .Site.Pages "Section" "rubriques") -}}
   {{ $projets_list := (where .Site.Pages "Section" "projets") -}}
   {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
 
@@ -145,7 +145,7 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
-    {{ range $index, $element := $groupes_de_travail_list -}}
+    {{ range $index, $element := $rubriques_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",
