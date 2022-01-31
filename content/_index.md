@@ -55,11 +55,11 @@ Des **référents** seront également sélectionnés pour aider ceux qui souhait
 
 ## Comment participer ?
 
-Il suffit de vous inscrire ici et de suivre les instructions >>> <[Formulaire d'inscription]({{< ref "/devenir_membre" >}})
+Il suffit de vous inscrire ici :  `[Formulaire d'inscription]({{< ref "/devenir_membre" >}})` et de suivre les instructions à l'issue de l'envoi de votre profil.
 
 Suite à cela, vous pourrez rejoindre un ou plusieurs groupes de travail pour contribuer.
 
-Les conditions sont pour participer les suivantes :
+Les conditions pour participer sont les suivantes :
 - être habitant de Bois-le-Roi,
 - compléter votre profil en ligne en toute sincérité grâce à au [formulaire]({{< ref "/devenir_membre" >}}),
 - accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
