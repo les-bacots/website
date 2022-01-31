@@ -1,6 +1,6 @@
 ---
-title: "Contribuer sur Github"
-description: "Contribuer sur Github"
+title: "Salle de rédaction en ligne"
+description: "Salle de rédaction en ligne"
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
@@ -15,12 +15,15 @@ toc: true
 
 [GitHub](https://fr.github.com/) est un outil de gestion de code source, très largement utilisé pour les projets opensource collaboratifs.
 
-C'est un outil qui permet à des millions de développeurs dans le monde de contribuer et de revoir des milliards de lignes de codes.
+C'est un outil qui permet à des millions de développeurs dans le monde de écrire et de revoir des milliards de lignes de codes.
 
 Toutes les demandes et les actions sont tracées dans des questions et des demandes de changements.
 Une fois que les changements sont revus et approuvés, ils sont publiés dans les documents de référence.
 
-Pour la gestion des contenus du site *lesbacots.org* nous proposons d'utiliser l'outil GitHub d'une façon simple et efficace.
+Pour la gestion des contenus du site d'information *lesbacots.org* nous proposons d'utiliser l'outil GitHub d'une façon simple et efficace.
+
+L'espace `lesbacots.org` sur GitHub accessible à l'adresse [github.lesbacots.org](https://github.com/les-bacots/les-bacots.github.io) est donc la salle de rédaction du site d'information où sont rédigées puis ensuite revues et validées les publications qui sont mises en ligne sur le site internet public [lesbacots.org](https://www.lesbacots.org/). 
+
 
 Le seul pré-requis pour faire une contribution sur lesbacots.org avec *GitHub* est la nécessité d'avoir un compte utilisateur GitHub ainsi qu'un profil publié sur lesbacots.org pour obtenir les droits de contribution. Cette inscription peut-être réalisée à cette url [https://github.com/signup](https://github.com/signup) et votre profil peut-être renseigné via ce [formulaire](https://www.lesbacots.org/devenir_membre/).
 
