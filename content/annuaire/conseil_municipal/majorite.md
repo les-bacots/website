@@ -41,8 +41,8 @@ toc: true
   - 6ème adjoint au Maire
   - Chargé de la culture, des manifestations et de la vie associative
 - `Jean-Philippe GUIBERT - Démission pour désaccord le JJ-MM-2020`
-  - *Ex-6ème adjoint au Maire*
-  - *Ex-Délégué aux affaires scolaires et périscolaires*
+  - `Ex-6ème adjoint au Maire`
+  - `Ex-Délégué aux affaires scolaires et périscolaires`
 - **Laure AVELINE**
   - 7ème Adjointe au Maire
   - Chargée des affaires scolaires et périscolaires
@@ -58,14 +58,14 @@ toc: true
   - Conseillère Municipale
   - Déléguée au développement durable
 - `Irène STRAJNIC - Démission pour motifs personnels le JJ-MM-AAAA`
-  - *Ex-Conseillère Municipale*
-  - *Ex-Déléguée à la démocratie locale*
+  - `Ex-Conseillère Municipale`
+  - `Ex-Déléguée à la démocratie locale`
 - **Patrick ROTH**
   - Conseiller municipal
   - Délégué au patrimoine
-  - `Karine JALENQUES - Démission pour désaccord le JJ-MM-AAAA`
-    - *Ex-Conseillère Municipale*
-    - *Ex-Déléguée à la Maison de santé*
+- `Karine JALENQUES - Démission pour désaccord le JJ-MM-AAAA`
+  - `Ex-Conseillère Municipale`
+  - `Ex-Déléguée à la Maison de santé`
 - **Mélanie Moussours**
   - Conseillère Municipale
   - Déléguée à l'écologie et à la biodiversité locale
@@ -73,8 +73,8 @@ toc: true
   - Conseiller municipal
   - Correspondant défense
 - `Alexandra BUSTEAU - Démission pour désaccord le 16-12-2021`
-  - *Ex-Conseillère Municipale*
-  - *Ex-Déléguée au développement économique*
+  - `Ex-Conseillère Municipale`
+  - `Ex-Déléguée au développement économique`
 
 ### Conseillers municipaux
 - **Iris FERREIRA DOS SANTOS**
