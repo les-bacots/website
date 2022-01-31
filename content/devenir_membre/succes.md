@@ -16,5 +16,5 @@ Vous pouvez dès à présent nous rejoindre sur les salons de discussion en inst
 
 - Lien pour télécharger l'application sur votre ordinateur ou sur votre mobile : [https://discord.com/download](https://discord.com/download)
 
-- Lien vers le serveur lesbacots.org : [https://discord.gg/rtZVXnPq6C](https://discord.gg/rtZVXnPq6C)
+- Lien vers le serveur de discussion lesbacots.org : [https://discord.gg/rtZVXnPq6C](https://discord.gg/rtZVXnPq6C)
 
