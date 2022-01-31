@@ -55,13 +55,13 @@ Des **référents** seront également sélectionnés pour aider ceux qui souhait
 
 ## Comment participer ?
 
-Il suffit de rejoindre l'espace de discussion lesbacots.org sur  [Discord]({{< ref "/comment_participer/comment_contribuer/discord" >}}) où vous pourrez immédiatement commencer à poser toutes vos questions.
+Il suffit de vous inscrire ici et de suivre les instructions >>> <[Formulaire d'inscription]({{< ref "/devenir_membre" >}})
 
 Suite à cela, vous pourrez rejoindre un ou plusieurs groupes de travail pour contribuer.
 
-Les conditions sont les suivantes :
+Les conditions sont pour participer les suivantes :
 - être habitant de Bois-le-Roi,
-- compléter votre profil en ligne en toute sincérité grâce à ce [formulaire]({{< ref "/devenir_membre" >}}),
+- compléter votre profil en ligne en toute sincérité grâce à au [formulaire]({{< ref "/devenir_membre" >}}),
 - accepter la charte de contribution et les règles de bonne conduite sur les salons de discussion,
 - rencontrer physiquement un **référent** (autour d'un café) : pour faire connaissance, s'assurer que vous êtes un habitant de Bois-le-Roi bien réel, vous expliquer comment  les groupes de travail fonctionnent, et enfin vous donner vos droits de **contributeur**.
 
