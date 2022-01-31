@@ -37,6 +37,3 @@ toc: true
   - `Conseiller municipal`
 - **Dominique POULLOT**
   - Conseillère municipale
-
-### Anciens conseillers municipaux démissionnaires
-- **Brice DUTHION - Démission le JJ-MM-AAAA**
