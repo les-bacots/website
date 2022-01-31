@@ -3,7 +3,7 @@
 ## Homepage
 title = "lesbacots.org"
 titleSeparator = "-"
-titleAddition = "Le Site"
+titleAddition = "Le Média"
 description = ""
 
 ## Documentation
@@ -13,7 +13,7 @@ description = ""
 images = ["bois-le-roi.jpg"]
 ogLocale = "fr_fr"
 domainTLD = "github.io"
-titleHome = "Le Site"
+titleHome = "Le Média"
 
 ## JSON-LD
 # schemaType = "Person"

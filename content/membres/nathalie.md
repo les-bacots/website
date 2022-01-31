@@ -31,7 +31,7 @@ toc: true
 - Oui depuis peu
 - J'ai participé au crowdfunding
 - Répondu à une enquête sur les vélos à bois le roi (humhum)
-- Soutiens le collectif "Touche pas a mon petit bois"
+- Soutiens l'association "Touche pas a mon petit bois"
 
 ### Ma profession actuelle
 
