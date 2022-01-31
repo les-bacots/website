@@ -32,13 +32,13 @@ toc: true
   - Déléguée à l'urbanisme
   - Élue au conseil d'agglomération du Pays de Fontainebleau (CAPF)
 - **Ollivier HLAVAC**
-  - 4e Adjoint au Maire
+  - 4ème Adjoint au Maire
   - Délégué aux mobilités, à la voirie et à la prévention
 - **Pauline CUSSEAU**
-  - 5e Adjointe au Maire
+  - 5ème Adjointe au Maire
   - Déléguée à la petite enfance
 - **Yves FONTANES**
-  - 6ème adjoint au Maire
+  - 6ème Adjoint au Maire
   - Chargé de la culture, des manifestations et de la vie associative
 - `Jean-Philippe GUIBERT - Démission pour désaccord le JJ-MM-2020`
   - `Ex-6ème adjoint au Maire`
@@ -66,7 +66,7 @@ toc: true
 - `Karine JALENQUES - Démission pour désaccord le JJ-MM-AAAA`
   - `Ex-Conseillère Municipale`
   - `Ex-Déléguée à la Maison de santé`
-- **Mélanie Moussours**
+- **Mélanie MOUSSOURS**
   - Conseillère Municipale
   - Déléguée à l'écologie et à la biodiversité locale
 - **Didier DURAND**
