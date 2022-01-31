@@ -55,7 +55,7 @@ Des **référents** seront également sélectionnés pour aider ceux qui souhait
 
 ## Comment participer ?
 
-Il suffit de vous inscrire ici :  `[Formulaire d'inscription]({{< ref "/devenir_membre" >}})` et de suivre les instructions à l'issue de l'envoi de votre profil.
+Il suffit de vous inscrire ici :  **[Formulaire d'inscription]({{< ref "/devenir_membre" >}})** et de suivre les instructions à l'issue de l'envoi de votre profil.
 
 Suite à cela, vous pourrez rejoindre un ou plusieurs groupes de travail pour contribuer.
 
