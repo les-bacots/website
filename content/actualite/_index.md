@@ -1,5 +1,5 @@
 ---
-title : "Projets"
+title : "Actualité"
 description: "Projets en cours"
 lead: "Projets en cours"
 date: 2022-01-24T08:48:23+00:00

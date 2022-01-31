@@ -1,7 +1,7 @@
 [[main]]
-  name = "Projets"
+  name = "Actualité"
   weight = 10
-  url = "/projets/"
+  url = "/actualite/"
 
 [[main]]
   name = "Rubriques"
@@ -106,11 +106,11 @@
   identifier = "budget"
   url = "/rubriques/budget/"
 
-[[projets]]
+[[actualite]]
   name = "La Focel"
   weight = 10
   identifier = "la_focel"
-  url = "/projets/la_focel/"
+  url = "/actualite/la_focel/"
 
 [[comment_participer]]
   name = "Comment contribuer ?"

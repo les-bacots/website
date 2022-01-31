@@ -74,7 +74,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer rubriques projets annuaire" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer rubriques actualite annuaire" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
   {{ if (eq "devenir_membre" .Section) -}}
@@ -102,7 +102,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" integrity="{{ $mermaid.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer rubriques projets annuaire" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "blog membres comment_participer rubriques actualite annuaire" .Section) -}}
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
   {{ if (eq "devenir_membre" .Section) -}}

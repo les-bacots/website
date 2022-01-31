@@ -99,7 +99,7 @@ Source:
   {{ $membres_list := (where .Site.Pages "Section" "membres") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
   {{ $rubriques_list := (where .Site.Pages "Section" "rubriques") -}}
-  {{ $projets_list := (where .Site.Pages "Section" "projets") -}}
+  {{ $actualite_list := (where .Site.Pages "Section" "actualite") -}}
   {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
 
   index
@@ -159,7 +159,7 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
-    {{ range $index, $element := $projets_list -}}
+    {{ range $index, $element := $actualite_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",
