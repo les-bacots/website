@@ -95,14 +95,44 @@ Source:
   // https://discourse.gohugo.io/t/range-length-or-last-element/3803/2
 
   {{ $all_index := 0 -}}
+  {{ $actualite_list := (where .Site.Pages "Section" "actualite") -}}
+  {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
   {{ $blog_list := (where .Site.Pages "Section" "blog") -}}
   {{ $membres_list := (where .Site.Pages "Section" "membres") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
+  {{ $devenir_membre_list := (where .Site.Pages "Section" "devenir_membre") -}}
+  {{ $inscription_newsletter_list := (where .Site.Pages "Section" "inscription_newsletter") -}}
   {{ $rubriques_list := (where .Site.Pages "Section" "rubriques") -}}
-  {{ $actualite_list := (where .Site.Pages "Section" "actualite") -}}
-  {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
 
   index
+    {{ range $index, $element := $actualite_list -}}
+    .add({
+        id: {{ $all_index }},
+        href: "{{ .RelPermalink }}",
+        title: {{ .Title | jsonify }},
+        {{ with .Description -}}
+          description: {{ . | jsonify }},
+        {{ else -}}
+          description: {{ .Summary | plainify | jsonify }},
+        {{ end -}}
+        content: {{ .Plain | jsonify }}
+    })
+    {{ $all_index = (add $all_index 1) -}}
+    {{ end -}}
+    {{ range $index, $element := $annuaire_list -}}
+    .add({
+        id: {{ $all_index }},
+        href: "{{ .RelPermalink }}",
+        title: {{ .Title | jsonify }},
+        {{ with .Description -}}
+          description: {{ . | jsonify }},
+        {{ else -}}
+          description: {{ .Summary | plainify | jsonify }},
+        {{ end -}}
+        content: {{ .Plain | jsonify }}
+    })
+    {{ $all_index = (add $all_index 1) -}}
+    {{ end -}}
     {{ range $index, $element := $blog_list -}}
     .add({
         id: {{ $all_index }},
@@ -145,35 +175,35 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
+    {{ range $index, $element := $devenir_membre_list -}}
+    .add({
+        id: {{ $all_index }},
+        href: "{{ .RelPermalink }}",
+        title: {{ .Title | jsonify }},
+        {{ with .Description -}}
+          description: {{ . | jsonify }},
+        {{ else -}}
+          description: {{ .Summary | plainify | jsonify }},
+        {{ end -}}
+        content: {{ .Plain | jsonify }}
+    })
+    {{ $all_index = (add $all_index 1) -}}
+    {{ end -}}
+    {{ range $index, $element := $inscription_newsletter_list -}}
+    .add({
+        id: {{ $all_index }},
+        href: "{{ .RelPermalink }}",
+        title: {{ .Title | jsonify }},
+        {{ with .Description -}}
+          description: {{ . | jsonify }},
+        {{ else -}}
+          description: {{ .Summary | plainify | jsonify }},
+        {{ end -}}
+        content: {{ .Plain | jsonify }}
+    })
+    {{ $all_index = (add $all_index 1) -}}
+    {{ end -}}
     {{ range $index, $element := $rubriques_list -}}
-    .add({
-        id: {{ $all_index }},
-        href: "{{ .RelPermalink }}",
-        title: {{ .Title | jsonify }},
-        {{ with .Description -}}
-          description: {{ . | jsonify }},
-        {{ else -}}
-          description: {{ .Summary | plainify | jsonify }},
-        {{ end -}}
-        content: {{ .Plain | jsonify }}
-    })
-    {{ $all_index = (add $all_index 1) -}}
-    {{ end -}}
-    {{ range $index, $element := $actualite_list -}}
-    .add({
-        id: {{ $all_index }},
-        href: "{{ .RelPermalink }}",
-        title: {{ .Title | jsonify }},
-        {{ with .Description -}}
-          description: {{ . | jsonify }},
-        {{ else -}}
-          description: {{ .Summary | plainify | jsonify }},
-        {{ end -}}
-        content: {{ .Plain | jsonify }}
-    })
-    {{ $all_index = (add $all_index 1) -}}
-    {{ end -}}
-    {{ range $index, $element := $annuaire_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",
