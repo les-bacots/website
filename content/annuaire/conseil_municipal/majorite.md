@@ -72,7 +72,7 @@ toc: true
 - **Didier DURAND**
   - Conseiller municipal
   - Correspondant défense
-- `Alexandra BUSTEAU - Démission pour désaccord le 16-12-2021`
+- `Alexandra BUSTEAU - Démission pour désaccord le 18-12-2021`
   - `Ex-Conseillère Municipale`
   - `Ex-Déléguée au développement économique`
 
