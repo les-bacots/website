@@ -10,6 +10,6 @@ toc: true
 weight: 130
 ---
 
-Cette section **Actualité** doit permettre d'informer sur les grands projets d'actualité (ou futurs) portés par  la Mairie et les habitants de Bois-le-Roi.
+Cette section **Actualité** doit permettre d'informer sur les grands projets d'actualité et d'avenir portés par  la Mairie et les habitants de Bois-le-Roi.
 
-*Les porteurs de projets en phase avec les thèmes identifiés qui souhaitent créer ici leur page d'information ici (ou proposer de nouveaux grands thèmes) sont invités à se manifester par email à lemedia@lesbacots.org ou en rejoignant les salons de discussion **[lesbacots.org](https://discord.gg/rtZVXnPq6C)** sur [DISCORD](https://www.lesbacots.org/comment_participer/comment_contribuer/discord/).*
+*Les porteurs de projets en phase avec les thèmes identifiés qui souhaitent créer ici leur page d'information (ou proposer de nouveaux grands thèmes) sont invités à se manifester par email à lemedia@lesbacots.org ou en rejoignant les salons de discussion **[lesbacots.org](https://discord.gg/rtZVXnPq6C)** sur [DISCORD](https://www.lesbacots.org/comment_participer/comment_contribuer/discord/).*
