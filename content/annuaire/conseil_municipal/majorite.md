@@ -40,7 +40,7 @@ toc: true
 - **Yves FONTANES**
   - 6ème Adjoint au Maire
   - Chargé de la culture, des manifestations et de la vie associative
-- `Jean-Philippe GUIBERT - Démission pour désaccord le JJ-MM-2020`
+- `Jean-Philippe GUIBERT - Démission pour désaccord en Juillet 2020`
   - `Ex-6ème adjoint au Maire`
   - `Ex-Délégué aux affaires scolaires et périscolaires`
 - **Laure AVELINE**
@@ -51,28 +51,28 @@ toc: true
   - Chargé des affaires sociales et intergénérationnelles
 
 ### Conseillers municipaux délégués
+- `Karine JALENQUES - Démission pour désaccord en Novembre 2021`
+  - `Ex-Conseillère Municipale`
+  - `Ex-Déléguée à la Maison de santé`
 - **Damien BORDEREAUX**
   - Conseiller Municipal
   - Délégué aux sports
 - **Emmanuelle ALHADEF**
   - Conseillère Municipale
   - Déléguée au développement durable
-- `Irène STRAJNIC - Démission pour motifs personnels le JJ-MM-AAAA`
+- `Irène STRAJNIC - Démission pour motifs personnels en Novembre 2021`
   - `Ex-Conseillère Municipale`
   - `Ex-Déléguée à la démocratie locale`
 - **Patrick ROTH**
   - Conseiller municipal
   - Délégué au patrimoine
-- `Karine JALENQUES - Démission pour désaccord le JJ-MM-AAAA`
-  - `Ex-Conseillère Municipale`
-  - `Ex-Déléguée à la Maison de santé`
 - **Mélanie MOUSSOURS**
   - Conseillère Municipale
   - Déléguée à l'écologie et à la biodiversité locale
 - **Didier DURAND**
   - Conseiller municipal
   - Correspondant défense
-- `Alexandra BUSTEAU - Démission pour désaccord le 18-12-2021`
+- `Alexandra BUSTEAU - Démission pour désaccord en Décembre 2021`
   - `Ex-Conseillère Municipale`
   - `Ex-Déléguée au développement économique`
 
@@ -90,3 +90,4 @@ toc: true
 - **Laurent ACHARD**
   - Conseiller municipal
 
+Source : https://www.ville-boisleroi.fr/decouvrir-bois-le-roi/vie-municipale/le-maire-et-les-elus au 01/02/2022 + historique des démissions
