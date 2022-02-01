@@ -90,4 +90,4 @@ toc: true
 - **Laurent ACHARD**
   - Conseiller municipal
 
-Source : https://www.ville-boisleroi.fr/decouvrir-bois-le-roi/vie-municipale/le-maire-et-les-elus au 01/02/2022 + historique des démissions
+Source : [https://www.ville-boisleroi.fr/decouvrir-bois-le-roi/vie-municipale/le-maire-et-les-elus](https://www.ville-boisleroi.fr/decouvrir-bois-le-roi/vie-municipale/le-maire-et-les-elus) au 01/02/2022 + historique des démissions
