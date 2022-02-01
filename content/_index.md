@@ -26,7 +26,7 @@ Les contributeurs sont répartis en **groupes de travail** qui rassemblent et pr
 
 Toutes les données, les idées et les propositions disponibles sur cette base documentaire sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
 
-***Tenté par l'aventure?*** Par ici pour nous rejoindre : [https://www.lesbacots.org/devenir_membre/](https://www.lesbacots.org/devenir_membre/)
+***Tenté par l'aventure?*** **>>[S'ABONNER A LA NEWSLETTER](https://www.lesbacots.org/inscription_newsletter/)<<** **>>[S'INSCRIRE COMME CONTRIBUTEUR](https://www.lesbacots.org/devenir_membre/)<<**
 
 ## Pour quoi faire ?
 
