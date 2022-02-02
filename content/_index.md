@@ -26,7 +26,7 @@ Les contributeurs sont répartis en **groupes de travail** qui rassemblent et pr
 
 Toutes les données, les idées et les propositions disponibles sur cette base documentaire sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
 
-***Tenté par l'aventure?*** **>><a href="/inscription_newsletter/" target="_blank">S'ABONNER A LA NEWSLETTER</a><<** **>>[S'INSCRIRE COMME CONTRIBUTEUR](/devenir_membre/)<<**
+***Tenté par l'aventure?*** **<a href="/inscription_newsletter/" target="_blank">S'ABONNER A LA NEWSLETTER</a>** ou **[DONNER UN COUP DE MAIN](/devenir_membre/)**
 
 ## Pour quoi faire ?
 
