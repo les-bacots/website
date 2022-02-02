@@ -13,7 +13,7 @@ weight: 130
 Les **rubriques** sont alimentées par des *groupes de travail* qui regroupent des contributeurs de la communauté lesbacots.org qui s'intéressent aux grandes problématiques identifiées.
 La liste de rubriques est succeptible d'évoluer en fonction des sujets d'intérêts proposés par la communauté.
 
-Chaque **rubrique** est organisée à la manière d'un *wiki* sur lequel toute la communauté du média peuvent contribuer.
+Chaque **rubrique** est organisée à la manière d'un *wiki* sur lequel toute la communauté du média peut contribuer.
 
 Au départ de chaque *groupe de travail*, une série de questions est posée dans les [salons de discussion](https://www.lesbacots.org/comment_participer/comment_contribuer/discord/) et des *pages de réponse* sont créées au fur et à mesure pour y répondre.
 
