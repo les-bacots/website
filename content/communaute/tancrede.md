@@ -7,8 +7,8 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 220
 toc: true
 ---

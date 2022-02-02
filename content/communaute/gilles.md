@@ -7,8 +7,8 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 340
 toc: true
 ---
@@ -16,7 +16,7 @@ toc: true
 ### Qui suis je?
 
 - Je suis née en 1961
-- Marié, père et grand-père de 2 petits-enfants 
+- Marié, père et grand-père de 2 petits-enfants
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 

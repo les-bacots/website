@@ -7,8 +7,8 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 240
 toc: true
 ---
@@ -35,4 +35,4 @@ toc: true
 
 ### Ma profession actuelle
 
-- Je travaille dans le retail depuis 15 ans. Je suis actuellement directrice de boutique dans le secteur du Luxe. 
+- Je travaille dans le retail depuis 15 ans. Je suis actuellement directrice de boutique dans le secteur du Luxe.

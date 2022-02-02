@@ -7,8 +7,8 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 200
 toc: true
 ---
@@ -18,7 +18,7 @@ toc: true
 - Avec ma femme, nous avons quitté Paris il y a un an à la recherche d’espace et de nature.
 - C’est comme ça que nous nous sommes retrouvées à bois le roi.
 - Nous y sommes maintenant propriétaires d’ une maison.
-- Nous sommes très attachées au respect de l’environnement et à notre qualité de vie actuelle. 
+- Nous sommes très attachées au respect de l’environnement et à notre qualité de vie actuelle.
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
@@ -27,8 +27,8 @@ toc: true
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- Non 
+- Non
 
 ### Ma profession actuelle
 
-- Chef de Projet - secteur énergie 
+- Chef de Projet - secteur énergie

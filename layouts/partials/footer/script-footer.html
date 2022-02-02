@@ -74,7 +74,7 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog devenir_membre membres comment_participer inscription_newsletter rubriques" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre inscription_newsletter rubriques" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
   {{ if (eq "devenir_membre" .Section) -}}

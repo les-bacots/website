@@ -7,8 +7,8 @@ lastmod: 2021-01-17T13:52:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 120
 toc: true
 ---
@@ -25,7 +25,7 @@ toc: true
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- Très heureux de vivre à Bois-le-Roi, je suis membre de l’association Bois-le-Roi Environnement et du collectif lesbacots.org. 
+- Très heureux de vivre à Bois-le-Roi, je suis membre de l’association Bois-le-Roi Environnement et du collectif lesbacots.org.
 - J’ai également participé à l’enquête publique lancé en 2020 sur la modification numéro 3 du PLU, où j’ai exprimé mes soucis de voir celle-ci aboutir à une densification urbaine trop intense pour notre ville.
 - J’ai aussi participé en 2021 à la collecte de crowdfunding en faveur de l’association « Bien à Bois le Roi ».
 
