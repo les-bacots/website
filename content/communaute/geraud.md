@@ -7,8 +7,8 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 100
 toc: true
 ---
@@ -33,4 +33,3 @@ toc: true
 ### Ma profession actuelle
 
 - Gestionnaire de projets informatiques dans le secteur de la banque et la finance depuis 40 ans.
-

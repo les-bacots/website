@@ -98,8 +98,8 @@ Source:
   {{ $actualite_list := (where .Site.Pages "Section" "actualite") -}}
   {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
   {{ $blog_list := (where .Site.Pages "Section" "blog") -}}
-  {{ $membres_list := (where .Site.Pages "Section" "membres") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
+  {{ $communaute_list := (where .Site.Pages "Section" "communaute") -}}
   {{ $devenir_membre_list := (where .Site.Pages "Section" "devenir_membre") -}}
   {{ $inscription_newsletter_list := (where .Site.Pages "Section" "inscription_newsletter") -}}
   {{ $rubriques_list := (where .Site.Pages "Section" "rubriques") -}}
@@ -147,7 +147,7 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
-    {{ range $index, $element := $membres_list -}}
+    {{ range $index, $element := $comment_participer_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",
@@ -161,7 +161,7 @@ Source:
     })
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
-    {{ range $index, $element := $comment_participer_list -}}
+    {{ range $index, $element := $communaute_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",

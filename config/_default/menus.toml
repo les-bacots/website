@@ -19,8 +19,8 @@
   weight = 40
 
 [[main]]
-  name = "Membres"
-  url = "/membres/"
+  name = "Communauté"
+  url = "/communaute/"
   weight = 50
 
 [[main]]
@@ -130,11 +130,11 @@
   identifier = "historique"
   url = "/comment_participer/historique/"
 
-[[membres]]
-  name = "Membres"
+[[communaute]]
+  name = "Communauté"
   weight = 10
-  identifier = "membres"
-  url = "/membres/"
+  identifier = "communaute"
+  url = "/communaute/"
 
 [[annuaire]]
   name = "Conseil Municipal"

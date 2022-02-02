@@ -7,15 +7,15 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 360
 toc: true
 ---
 
 ### Qui suis je?
 
-- Nous habitons BLR depuis 20 ans. 
+- Nous habitons BLR depuis 20 ans.
 - Nos enfants ont fait toute leur scolarité dans notre commune puis à Fontainebleau.
 - Nous avons bénéficié des associations comme le Trait d'Union ou l'USB.
 

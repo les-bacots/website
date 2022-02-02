@@ -1,5 +1,5 @@
 ---
-title: "Elisabeth Razafindramanana"
+title: "Serge Clot"
 description: "Contributeur lesbacots.org"
 lead: "Contributeur lesbacots.org"
 date: 2021-01-16T22:56:01+02:00
@@ -7,26 +7,25 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
-weight: 400
+  communaute:
+    parent: "communaute"
+weight: 420
 toc: true
 ---
 
 ### Qui suis je?
 
-- Habitante de Bois-le-Roi depuis l'an 2000.
-- Mon foyer est constitué de 3 personnes.
-- J'aime la nature, le cadre de vie.
+- Habitant depuis 20 ans à Bois-le-Roi.
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
-- Nous sommes propriétaires.
+- Forêt. Sport.
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- Je suis au Fal chartrettes pour la rando, à USB pour le sport.
+- Non, Membre d'associations hors Bois-le-roi.
 
 ### Ma profession actuelle
 
-- Actuellement sans / pharmacien en établissement de santé.
+- Retraité.
+- Conciliateur de justice Tribunal Judiciaire Fontainebleau.

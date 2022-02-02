@@ -7,8 +7,8 @@ lastmod: 2021-01-16T22:56:01+02:00
 draft: false
 images: []
 menu:
-  membres:
-    parent: "membres"
+  communaute:
+    parent: "communaute"
 weight: 380
 toc: true
 ---
@@ -21,12 +21,12 @@ toc: true
 
 ### Mes intérêts sur Bois-Le-Roi et en Seine-et-Marne
 
-- Aucun 
+- Aucun
 
 ### Participation à la vie locale de Bois-le-Roi
 
-- Acheter local pour soutenir nos commerçants. 
+- Acheter local pour soutenir nos commerçants.
 
 ### Ma profession actuelle
 
-- Sophrologue à Bois-le-roi en cabinet et en entreprise  
+- Sophrologue à Bois-le-roi en cabinet et en entreprise
