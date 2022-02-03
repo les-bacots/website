@@ -1,7 +1,7 @@
 ---
 title: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
 description: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
-lead: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
+lead: ""
 date: 2022-02-01T00:00:00+01:00
 lastmod: 2022-02-01T00:00:00+01:00
 draft: false
@@ -35,6 +35,7 @@ Faisons l’inventaire des ressources et projets possibles. Envisageons d'abord 
 - Le collectif de l'Arbre, Bien à BLR,
 - Le comité de Sauvegarde de la Gare,
 - Vivre la démocratie à BLR,
+
 **précisent :**
 
 **Monsieur le Maire, vous faites le forcing pour signer une convention avec l' EPFIF,** alors que vous vous targuez d'une prétendue volonté d'ouverture, de discussion et de « protection de Bois-le-Roi » dans chacune de vos déclarations verbales ou écrites.
@@ -57,4 +58,4 @@ Même s'il a été réduit à 66 logements, le projet implique une emprise au so
 
 Veuillez agréer, Monsieur le Maire, mesdames et messieurs les élus, l'expression de nos salutations distinguées.
 
-*lettre signée par BLR Environnement, Le collectif des Voisins de la Focel, Le collectif de l'Arbre, Bien à BLR, Le comité de Sauvegarde de la Gare, Vivre la démocratie à BLR.*
+*lettre signée par BLR Environnement, Le collectif des Voisins de la Focel, Le collectif de l'Arbre, Bien à BLR, Le comité de Sauvegarde de la Gare, Vivre la démocratie à BLR et envoyée par email le 1/02/2022 au Maire et aux élus.*
