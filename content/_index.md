@@ -22,11 +22,11 @@ Il est **indépendant et bénévole**. Ne reçoit aucun financement de la part d
 
 Il est **ouvert au plus grand nombre, y compris aux élus Bacots qui peuvent s'y exprimer en leur nom, mais toute tentative de récupération politique ou partisane sera dénoncée par la communauté.**
 
-Les contributeurs sont répartis en **groupes de travail** qui rassemblent et produisent des **Informations d'Origine Controllée (IOC)** qui sont revues et partagées ici, à la manière d'un *wiki*.
+Les communauté est répartie en **groupes de travail** qui rassemblent et produisent des **Informations d'Origine Controllée (IOC)** qui sont revues et partagées ici, à la manière d'un *wiki*.
 
 Toutes les données, les idées et les propositions disponibles sur cette base documentaire sont librement utilisables par l'ensemble des bacots, des associations et de la Mairie.
 
-***Tenté par l'aventure?*** **>>[S'ABONNER A LA NEWSLETTER](https://www.lesbacots.org/inscription_newsletter/)<<** **>>[S'INSCRIRE COMME CONTRIBUTEUR](https://www.lesbacots.org/devenir_membre/)<<**
+***Tenté par l'aventure?*** **<a href="/inscription_newsletter/" target="_blank">S'ABONNER A LA NEWSLETTER</a>** ou **[DONNER UN COUP DE MAIN](/devenir_membre/)**
 
 ## Pour quoi faire ?
 
