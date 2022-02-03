@@ -28,12 +28,13 @@ Les associations et collectifs s’accordent ainsi pour dire qu’une telle conv
 Faisons l’inventaire des ressources et projets possibles. Envisageons d'abord ce qui peut être fait à partir de l'existant, puis par la réhabilitation et seulement en dernier par la construction. Prenons le temps de bien choisir la localisation et les partenaires des nouvelles constructions pour préserver la physionomie de notre commune.
  
 **Nous vous prions de consulter les avis des associations et collectifs de Bois-le-Roi qui vont dans le même sens :**
-- Les associations BLR Environnement,
+
+**Les associations** 
+- BLR Environnement,
 - Le collectif des Voisins de la Focel,
 - Le collectif de l'Arbre, Bien à BLR,
 - Le comité de Sauvegarde de la Gare,
 - Vivre la démocratie à BLR,
-
 **précisent :**
 
 **Monsieur le Maire, vous faites le forcing pour signer une convention avec l' EPFIF,** alors que vous vous targuez d'une prétendue volonté d'ouverture, de discussion et de « protection de Bois-le-Roi » dans chacune de vos déclarations verbales ou écrites.
@@ -56,3 +57,4 @@ Même s'il a été réduit à 66 logements, le projet implique une emprise au so
 
 Veuillez agréer, Monsieur le Maire, mesdames et messieurs les élus, l'expression de nos salutations distinguées.
 
+signé par BLR Environnement, Le collectif des Voisins de la Focel, Le collectif de l'Arbre, Bien à BLR, Le comité de Sauvegarde de la Gare, Vivre la démocratie à BLR.
