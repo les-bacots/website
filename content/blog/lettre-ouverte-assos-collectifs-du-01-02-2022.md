@@ -5,13 +5,12 @@ lead: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
 date: 2022-02-01T00:00:00+01:00
 lastmod: 2022-02-01T00:00:00+01:00
 draft: false
-weight: 60
+weight: 50
 images: []
 contributors: ["Bois-le-Roi Environnement","Vive la démocratie à Bois-le-Roi","Touche pas à mon p'tit bois","Collectif de l'arbre","Collectif des voisins de la Foccel","Bien à Bois-le-Roi","Comité de sauvegarde du quartier de la gare"]
 ---
 
-**OBJET: le projet de recours à l'EPFIF**
-Version courrier courrier transmis par JP Guibert à modifier selon pdf final.
+### OBJET: le projet de recours à l'EPFIF
 
 Bois-le-Roi, le 1er février 2022,
 
