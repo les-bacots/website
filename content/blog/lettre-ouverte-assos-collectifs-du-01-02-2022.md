@@ -57,4 +57,4 @@ Même s'il a été réduit à 66 logements, le projet implique une emprise au so
 
 Veuillez agréer, Monsieur le Maire, mesdames et messieurs les élus, l'expression de nos salutations distinguées.
 
-signé par BLR Environnement, Le collectif des Voisins de la Focel, Le collectif de l'Arbre, Bien à BLR, Le comité de Sauvegarde de la Gare, Vivre la démocratie à BLR.
+*lettre signée par BLR Environnement, Le collectif des Voisins de la Focel, Le collectif de l'Arbre, Bien à BLR, Le comité de Sauvegarde de la Gare, Vivre la démocratie à BLR.*
