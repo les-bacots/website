@@ -1,7 +1,7 @@
 ---
-title: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
+title: "Lettre aux élus : le point de vue des assos et collectifs sur le recours à l'EPFIF"
 description: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
-lead: ""
+lead: "Lettre ouverte au Maire et aux élus de Bois-le-Roi"
 date: 2022-02-01T00:00:00+01:00
 lastmod: 2022-02-01T00:00:00+01:00
 draft: false
