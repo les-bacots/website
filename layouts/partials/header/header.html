@@ -3,13 +3,13 @@
   <div class="header-bar"></div>
 
   <header class="navbar navbar-expand-md navbar-light doks-navbar">
-    <nav class="container-xxl flex-wrap flex-md-nowrap" aria-label="Main navigation">
+    <nav class="container-xxl flex-wrap flex-md-nowrap" aria-label="Menu de navigation">
       <a class="navbar-brand p-0 me-auto" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">
         {{ .Site.Params.Title }}
       </a>
 
       <button class="btn btn-menu d-block d-md-none order-5" type="button" data-bs-toggle="offcanvas"
-        data-bs-target="#offcanvasDoks" aria-controls="offcanvasDoks" aria-label="Open main menu">
+        data-bs-target="#offcanvasDoks" aria-controls="offcanvasDoks" aria-label="Ouvrir le menu">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
           class="feather feather-menu">
@@ -25,10 +25,10 @@
         <div class="offcanvas-header d-md-none">
           <h2 class="h5 offcanvas-title ps-2" id="offcanvasDoksLabel"><a class="text-dark" href="{{ "/" | relLangURL }}">{{ .Site.Params.Title }}</a></h2>
           <button type="button" class="btn-close text-reset me-2" data-bs-dismiss="offcanvas"
-            aria-label="Close main menu"></button>
+            aria-label="Fermer le menu"></button>
         </div>
         <div class="offcanvas-body px-4">
-          <h3 class="h6 text-uppercase mb-3 d-md-none">Main</h3>
+          <h3 class="h6 text-uppercase mb-3 d-md-none">Menu</h3>
           <ul class="nav flex-column flex-md-row ms-md-n3">
             {{- $current := . -}}
             {{ range .Site.Menus.main -}}
