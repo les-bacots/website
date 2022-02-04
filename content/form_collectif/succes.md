@@ -10,7 +10,7 @@ images: []
 
 Votre formulaire a bien été pris en compte, **merci**.
 
-Les données seront mise en ligne très prochainement par l'un de contributeurs.
+Les données seront mise en ligne très prochainement par l'un de nos contributeurs.
 
 Vous pouvez dès à présent nous rejoindre sur les salons de discussion en installant l'application [Discord](https://discord.com/) :
 
