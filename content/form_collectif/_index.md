@@ -1,6 +1,6 @@
 ---
-title: "Formulaire de collecte de données collectif"
-description: "Formulaire  de collecte de données collectif"
+title: "Formulaire de données collectif"
+description: "Formulaire de données collectif"
 lead: ""
 date: 2022-01-18T12:50:29+00:00
 lastmod: 2022-01-18T12:50:29+00:00
