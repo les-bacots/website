@@ -74,10 +74,10 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre inscription_newsletter rubriques" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre form_collectif inscription_newsletter rubriques" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if (eq "devenir_membre" .Section) -}}
+  {{ if (in "devenir_membre form_collectif" .Section) -}}
     <script src="https://cdn.form.io/formiojs/formio.full.js"></script>
   {{ end -}}
 {{ else -}}
@@ -102,20 +102,24 @@
   {{ with .Params.mermaid -}}
     <script src="{{ $mermaid.RelPermalink }}" integrity="{{ $mermaid.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
-  {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre inscription_newsletter rubriques" .Section) -}}
+  {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre form_collectif inscription_newsletter rubriques" .Section) -}}
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
-  {{ if (eq "devenir_membre" .Section) -}}
+  {{ if (in "devenir_membre form_collectif" .Section) -}}
     <script src="https://cdn.form.io/formiojs/formio.full.min.js"></script>
   {{ end -}}
 {{ end -}}
 
-{{ if (eq "devenir_membre" .Section) -}}
+{{ if (in "devenir_membre form_collectif" .Section) -}}
 <script type="text/javascript">
   window.onload = function() {
     Formio.createForm(
       document.getElementById("formio"),
+{{ if (eq "devenir_membre" .Section) -}}
       "https://efulrmjqvqsnulb.form.io/devenir-membre",
+{{ else -}}
+      "https://efulrmjqvqsnulb.form.io/formulairecollectifs",
+{{ end -}}
       {
         i18n: {
           fr: {
@@ -129,7 +133,11 @@
     ).then((form) => {
       form.language = 'fr';
       form.on('submitDone', function(submission) {
+{{ if (eq "devenir_membre" .Section) -}}
           window.location = '/devenir_membre/succes/';
+{{ else -}}
+          window.location = '/form_collectif/succes/';
+{{ end -}}
       });
     });
   };
