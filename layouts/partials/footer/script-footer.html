@@ -77,7 +77,7 @@
   {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre form_association form_collectif inscription_newsletter rubriques" .Section) -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
-  {{ if (in "devenir_membre form_association form_collectif" .Section) -}}
+  {{ if and (not .IsHome)  (in "devenir_membre form_association form_collectif" .Section) -}}
     <script src="https://cdn.form.io/formiojs/formio.full.js"></script>
   {{ end -}}
 {{ else -}}
@@ -105,12 +105,12 @@
   {{ if and (.Site.Params.options.flexSearch) (in "actualite annuaire blog comment_participer communaute devenir_membre form_association form_collectif inscription_newsletter rubriques" .Section) -}}
     <script src="{{ $index.Permalink }}" integrity="{{ $index.Data.Integrity }}" crossorigin="anonymous" defer></script>
   {{ end -}}
-  {{ if (in "devenir_membre form_association form_collectif" .Section) -}}
+  {{ if and (not .IsHome)  (in "devenir_membre form_association form_collectif" .Section) -}}
     <script src="https://cdn.form.io/formiojs/formio.full.min.js"></script>
   {{ end -}}
 {{ end -}}
 
-{{ if (in "devenir_membre form_association form_collectif" .Section) -}}
+{{ if and (not .IsHome)  (in "devenir_membre form_association form_collectif" .Section) -}}
 <script type="text/javascript">
   window.onload = function() {
     Formio.createForm(
