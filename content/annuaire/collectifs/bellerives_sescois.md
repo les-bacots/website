@@ -13,19 +13,25 @@ weight: 10
 toc: true
 ---
 
-**Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) 
+- **Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) 
+- **Email de contact :** bellerivesescois.collectif@gmail.com
+
 
 ### Objet du collectif
-*A compléter*
+- Le collectif a été créé pour s'opposer au projet dont le but est de construire un premier immeuble au 23 rue des Sesçois.
+- Le collectif souhaite arrêter les projets immobiliers qui transformeraient notre village en cité-dortoir.
 
 ### Membres principaux
-*A compléter*
+- Jérôme, Michel, Elisabeth, Géraud, et 68 autres personnes, déjà membres du collectif.
+- Vous aussi vous pouvez vous associer à notre démarche en vous inscrivant sur  le  site du collectif.
 
 ### Nombre de membres
-*A compléter*
+- 68 personnes
 
 ### Publications & Actions
-*A compléter*
+- 27 Juillet 2021 : Recours en annulation du Permis de Construire (Tribunal Administratif) - affaire en cours
+- Pour suivre l'évolution de l'action en justice : vous pouvez vous rendre sur le site internet du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) et/ou en adhérant pour être tenu informé. 
+
 
 ### Budget & Financement
-*A compléter*
+*Pas de budget*
