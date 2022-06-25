@@ -18,7 +18,8 @@ Monsieur le Maire, mesdames et messieurs les élus,
 
 Nous constatons qu'à ce jour, nous n'avons toujours pas eu la moindre réponse de la part de Monsieur le Maire, à notre lettre ouverte du 1er février 2022 ; sauf à considérer que le post insultant publié sur Facebook et retiré en moins de 24 heures -sans la moindre excuse- soit une réponse (cf. copie d'écran ci-dessous pour mémoire). 
 
-*>>> mettre photo ici*
+![Copie ecran facebook](images/fb_unis_pour_bois_le_roi_torchon.png "Copie ecran facebook")
+
 
 Par la voix de leurs représentants associatifs, de nombreux habitants vous exprimaient dans cette lettre ouverte leur grande inquiétude face à votre intention de signer une convention avec l'EPFIF, contre leur avis ; **ils vous demandaient l'engagement de renoncer à ce recours qui conduirait au bétonnage irréversible, exposerait notre commune à des risques financiers démesurés et non maîtrisés, ainsi qu'à l'augmentation extrême et non anticipée de la population de notre commune, avec toutes les conséquences désastreuses sur notre cadre de vie.**
 
