@@ -7,7 +7,7 @@ lastmod: 2022-03-29T00:00:00+01:00
 draft: false
 weight: 50
 images: []
-contributors: ["Bois-le-Roi Environnement","Vive la démocratie à Bois-le-Roi",,"Collectif de l'arbre","Collectif des voisins de la Foccel","Bien à Bois-le-Roi","Comité de sauvegarde du quartier de la gare"]
+contributors: ["Bois-le-Roi Environnement","Vive la démocratie à Bois-le-Roi","Collectif de l'arbre","Collectif des voisins de la Foccel","Bien à Bois-le-Roi","Comité de sauvegarde du quartier de la gare"]
 ---
 
 ### OBJET: Réponse à votre non-réponse à notre lettre ouverte du 1er février 2022
