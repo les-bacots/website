@@ -1,7 +1,7 @@
 ---
 title: "Interview de Géraud Talandier"
-description: "Fondateur du collectif de défense Bellerive-Sesçois"
-lead: "Interview de Géraud Talandier"
+description: "Géraud Talandier, Fondateur du collectif de défense Bellerive-Sesçois"
+lead: "Fondateur du collectif de défense Bellerive-Sesçois"
 date: 2022-06-30T15:21:01+02:00
 lastmod: 2022-06-30T15:21:01+02:00
 draft: false
