@@ -1,7 +1,7 @@
 ---
 title: "Interview de Géraud Talandier"
-description: "Interview de Géraud Talandier, fondateur du collectif de défense Bellerive-Sesçois"
-lead: "Interview de Géraud Talandier, fondateur du collectif de défense Bellerive-Sesçoisn"
+description: "Interview de Géraud Talandier"
+lead: "Interview de Géraud Talandier"
 date: 2022-06-30T15:21:01+02:00
 lastmod: 2022-06-30T15:21:01+02:00
 draft: false
@@ -13,7 +13,7 @@ weight: 10
 toc: true
 ---
 
-**Interview de Géraud Talandier, , fondateur du collectif de défense Bellerive-Sesçois**
+**Interview de Géraud Talandier, fondateur du collectif de défense Bellerive-Sesçois**
 
 [Ajouter la photo de Géraud]
 Le média citoyen lesbacots.org a souhaité en savoir plus sur le collectif Bellerive-Sesçois: sa création, son action en justice et son actualité.
