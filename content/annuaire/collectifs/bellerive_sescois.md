@@ -1,5 +1,5 @@
 ---
-title: "Défense Bellerives Sesçois"
+title: "Défense Bellerive-Sesçois"
 description: "Informations générales à propos du collectif"
 lead: "Informations générales à propos du collectif"
 date: 2020-10-13T15:21:01+02:00

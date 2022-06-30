@@ -16,10 +16,10 @@ toc: true
 ![Géraud Talandier](images/illustration_itw_geraud_t.jpg "Géraud Talandier")
 
 
-## En savoir plus sur le collectif de défense Bellerive-Sesçois et le projet immobilier du 23 Rue des sesçois
+## Pour savoir plus sur <a href="/annuaire/collectifs/bellerive_sescois/" target="_blank">le collectif de défense Bellerive-Sesçois</a> et le projet immobilier du 23 Rue des sesçois
 
 Le média citoyen lesbacots.org a souhaité en savoir plus sur le collectif Bellerive-Sesçois: sa création, son action en justice et son actualité.
-Ci-dessous les propos de Gréaud Talandier recueillis par Simon Mencarelli pour lesbacots.org, 
+Ci-dessous les propos de Géraud Talandier recueillis par Simon Mencarelli pour lesbacots.org.
 Géraud Talandier est le fondateur du collectif de défense Bellerive-Sesçois et requérant dans l'action en justice contre le projet de construction d'un immeuble de 12 logements au numéro 23 de la rue des sesçois.
 
 **Qu’est-ce que le collectif de défense Bellerive-Sesçois ?**
@@ -69,3 +69,5 @@ Chacun peut aussi nous contacter directement : Elisabeth, Jérôme, Michel ou mo
 
 - Référence 1 : Lien vers le courrier du tribunal [lien à ajouter]
 - Référence 2 : Extrait de l'intervention de M. Le Maire David Dinthillac le 18/11/2021 [Lien à ajouter]
+- **Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) 
+- **Email de contact :** bellerivesescois.collectif@gmail.com
