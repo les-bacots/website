@@ -108,9 +108,15 @@
 
 [[actualite]]
   name = "La Focel"
-  weight = 10
+  weight = 20
   identifier = "la_focel"
   url = "/actualite/la_focel/"
+
+[[actualite]]
+  name = "Rue des sesçois"
+  weight = 10
+  identifier = "sescois"
+  url = "/actualite/sescois/"
 
 [[comment_participer]]
   name = "Comment contribuer ?"
