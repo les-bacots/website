@@ -49,7 +49,7 @@ Le tribunal a réouvert l'instruction le 7 juin dernier.
 
 Nous ne comprenons pas la mairie qui se justifie de signer des arrêtés abusifs.
 Il faut se demander ce qui peut contraindre un maire à autoriser des permis de construire illégaux ?
-Alors même qu'il s'est prononcé publiquement en défaveur d'une telle densité de logements pour ce type de projet (100 logements/hectare) lors de son intervention dans la cours du Conseil Municipal le 18 Novembre 2021[voir référence 2 en pied de page].
+Alors même qu'il s'affiche publiquement en défaveur d'une telle densité de logements pour ce type de projet (100 logements/hectare) lors de son intervention dans la cours du Conseil Municipal le 18 Novembre 2021 [voir référence 2 en pied de page].
 Nous ne comprenons donc pas ce décalage entre le discours et les actes.
 
 **Avez-vous reçu des soutiens dans votre démarche ?**
