@@ -29,9 +29,15 @@ toc: true
 - 68 personnes
 
 ### Publications & Actions
-- 27 Juillet 2021 : Recours en annulation du Permis de Construire (Tribunal Administratif) - affaire en cours
-- Pour suivre l'évolution de l'action en justice : vous pouvez vous rendre sur le site internet du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) et/ou en adhérant pour être tenu informé. 
+- 22 juin 2022 : Devant l'attitude conciliante du tribunal nous décidons de poursuivre l'action afin d'épuiser les recours. 
+- 27 mai 2022 : Le tribunal nous donne raison en dénonçant l'abus dans le  projet d'un deuxième étage "ne constituant pas un comble". 
+- 27 juillet 2021 : Recours en annulation du Permis de Construire (Tribunal Administratif) - affaire en cours
+- Plus d'information sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
+  Possibilité d'adhérer pour être tenu informé. 
 
 
 ### Budget & Financement
-*Pas de budget*
+ - A juin 2022 nous avons déjà engagé plus de 7K euros de frais de justice. 
+ - 100% du financement provient de dons privés
+ - Les modalités pour soutenir l'action du collectif se trouvent sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
+
