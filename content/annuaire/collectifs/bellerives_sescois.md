@@ -29,8 +29,9 @@ toc: true
 - 68 personnes
 
 ### Publications & Actions
-- 22 juin 2022 : Devant l'attitude conciliante du tribunal nous décidons de poursuivre l'action afin d'épuiser les recours. 
-- 27 mai 2022 : Le tribunal nous donne raison en dénonçant l'abus dans le  projet d'un deuxième étage "ne constituant pas un comble"....
+- 22 juin 2022 : Devant la pauvreté des modifications proposées au juge, nous décidons de poursuivre l'action en justice. 
+- 30 mai 2022 : La mairie valide une modification visant à réduire le projet.
+- 27 mai 2022 : Le tribunal dénonce un deuxième étage "ne constituant pas un comble".
 - 27 juillet 2021 : Recours en annulation du Permis de Construire (Tribunal Administratif) - affaire en cours
 - Plus d'information sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
   Possibilité d'adhérer pour être tenu informé. 
