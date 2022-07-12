@@ -29,11 +29,11 @@ toc: true
 - 68 personnes
 
 ### Publications & Actions
-- 22 juin 2022 : Devant la pauvreté des modifications proposées au juge, nous décidons de poursuivre l'action en justice. 
-- 30 mai 2022 : La mairie valide une modification visant à réduire le projet (voir le détail dans le site du collectif).
+- 27 juillet 2021 : Recours en annulation du Permis de Construire devant le Tribunal Administratif de Melun 
 - 27 mai 2022 : Le tribunal dénonce un deuxième étage "ne constituant pas un comble".
-- 27 juillet 2021 : Recours en annulation du Permis de Construire (Tribunal Administratif) - affaire en cours
-- Plus d'information sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
+- 30 mai 2022 : La mairie valide une modification visant à réduire le projet (voir le détail dans le site du collectif).
+- 22 juin 2022 : Devant la pauvreté des modifications proposées au juge, nous décidons de poursuivre l'action en justice. 
+... Plus d'information sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
   Possibilité d'adhérer pour être tenu informé. 
 
 
