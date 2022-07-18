@@ -16,7 +16,7 @@ toc: true
 ![Géraud Talandier et Jérôme Salabelle, cofondateurs du collectif de défense Bellerive-Sesçois](images/GT_JS.jpg "Géraud Talandier et Jérôme Salabelle, cofondateurs du collectif de défense Bellerive-Sesçois")
 
 
-**Pour savoir plus sur <a href="/annuaire/collectifs/bellerive_sescois/" target="_blank">le collectif de défense Bellerive-Sesçois</a> et le projet immobilier du 23 Rue des sesçois...**
+**Pour en savoir plus sur <a href="/annuaire/collectifs/bellerive_sescois/" target="_blank">le collectif de défense Bellerive-Sesçois</a> et le projet immobilier du 23 Rue des sesçois...**
 
 Le média citoyen lesbacots.org a souhaité en savoir plus sur le collectif Bellerive-Sesçois: sa création, son action en justice et son actualité.
 Ci-dessous les propos de Géraud Talandier recueillis par Simon Mencarelli pour lesbacots.org.
