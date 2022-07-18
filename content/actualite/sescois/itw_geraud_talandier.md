@@ -24,7 +24,7 @@ Géraud Talandier est un des fondateurs du collectif de défense Bellerive-Sesç
 
 **Qu’est-ce que le collectif de défense Bellerive-Sesçois ?**
 
-Le collectif s'est constitué en juin 2021 (ndr: il y a plus d'un an) suite à l'arrêté municipal du 26 mai 2021 autorisant la destruction d'une maison de la rue des Sesçois pour mettre un immeuble collectif à la place. Beaucoup de riverains ont été choqués par cette éventualité. Nous avons donc décidé de nous organiser et faire tout ce qui est en notre pouvoir pour arrêter ce projet.
+Le collectif s'est constitué en juin 2021 (ndr: il y a plus d'un an) suite à l'arrêté municipal du 26 mai 2021 autorisant la destruction d'une maison de la rue des Sesçois pour y construire un immeuble collectif à la place. Beaucoup de riverains ont été choqués par cette éventualité. Nous avons donc décidé de nous organiser et faire tout ce qui est en notre pouvoir pour arrêter ce projet.
 
 **Pouvez-vous nous décrire le projet de construction de logements collectifs prévu au 23 Rue des sesçois ?**
 
@@ -48,13 +48,13 @@ Pour cela, le tribunal a réouvert l'instruction le 7 juin dernier.
 **Quelle est la position de la Mairie de Bois-le-Roi sur ce dossier ?**
 
 Nous ne comprenons pas la mairie qui se justifie de signer un arrêté litigieux.
-Il faudra se demander ce qui pourrait contraindre un maire à autoriser un permis de construire illégal ?
-Alors même qu'il s'affiche publiquement en défaveur d'une telle densité de logements pour ce type de projet (100 logements/hectare) lors de son intervention dans la cours du Conseil Municipal le 18 Novembre 2021 [voir référence 2 en pied de page].
+Il faudra se demander ce qui pourrait contraindre la mairie à autoriser un permis de construire illégal ?
+Alors même que Monsieur le Maire de Bois-le-Roi s'est affiché publiquement en défaveur d'une telle densité de logements pour ce type de projet (100 logements/hectare) en citant le projet du 23 Rue des sesçois comme un exemple de densification excessive lors de son intervention dans la cours du Conseil Municipal le 18 Novembre 2021.
 Nous ne comprenons donc pas ce décalage entre le discours et les actes.
 
 **Avez-vous reçu des soutiens dans votre démarche ?**
 
-Beaucoup de soutiens sont venus spontanément de la part de gens outrés par la menace de tels projets sur les espaces naturels de la ville. La plupart des voisins soutiennent notre action, les principales associations de Bois-le-Roi aussi nous soutiennent. Certains soutiens sont financiers. Les frais pour ce genre d'action en justice sont très lourds pour des particuliers, nous avons déjà engagé plus de 7k euros. Toutes les participations sont bienvenues.
+Beaucoup de soutiens sont venus spontanément de la part de gens outrés par la menace de tels projets de transformation d'un pavillon individuel en immeuble de logements collectifs et d'autres encore s'inquiètent de futurs projets sur des espaces naturels boisés de la ville. La plupart des voisins soutiennent notre action, les principales associations de Bois-le-Roi aussi nous soutiennent. Certains soutiens sont financiers. Les frais pour ce genre d'action en justice sont très lourds pour des particuliers, nous avons déjà engagé plus de 7k euros. Toutes les participations sont bienvenues.
 
 **Quelles sont les prochaines étapes et qu’espérez-vous pour la suite ?**
 
@@ -67,6 +67,5 @@ Il faut informer nos concitoyens sur la réalité et sur les conséquences d'une
 Les manières de soutenir notre action sont décrites sur internet à cette adresse [http://ruechantemerle.fr/assoc/belses.html]http://ruechantemerle.fr/assoc/belses.html.
 Chacun peut aussi nous contacter directement : Elisabeth, Jérôme, Michel ou moi-même. 
 
-- Référence 1 : Extrait de l'intervention de M. Le Maire David Dinthillac le 18/11/2021 [Lien à ajouter]
 - **Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) 
 - **Email de contact :** bellerivesescois.collectif@gmail.com
