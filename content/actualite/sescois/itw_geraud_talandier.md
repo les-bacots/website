@@ -1,7 +1,7 @@
 ---
-title: "Interview de Géraud Talandier"
-description: "Géraud Talandier, Cofondateur du collectif de défense Bellerive-Sesçois"
-lead: "Cofondateur du collectif de défense Bellerive-Sesçois"
+title: "Projet de logements collectifs au n°23"
+description: "Interview de Géraud Talandier, cofondateur du collectif de défense Bellerive-Sesçois"
+lead: "Interview de Géraud Talandier, cofondateur du collectif de défense Bellerive-Sesçois"
 date: 2022-06-30T15:21:01+02:00
 lastmod: 2022-06-30T15:21:01+02:00
 draft: false
