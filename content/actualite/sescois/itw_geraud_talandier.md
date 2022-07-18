@@ -56,7 +56,7 @@ Géraud Talandier est un des fondateurs du collectif de défense Bellerive-Sesç
 
 **Si des personnes souhaitent-vous contacter, suivre le dossier ou vous soutenir, que doivent-elles faire ?**
 
->***GT*** Les manières de soutenir notre action sont décrites sur internet à cette adresse [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html). Chacun peut aussi nous contacter directement : Elisabeth, Jérôme, Michel ou moi-même. 
+>***GT>*** Les manières de soutenir notre action sont décrites sur internet à cette adresse [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html). Chacun peut aussi nous contacter directement : Elisabeth, Jérôme, Michel ou moi-même. 
 
 - **Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) 
 - **Email de contact :** bellerivesescois.collectif@gmail.com
