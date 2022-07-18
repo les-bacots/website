@@ -25,15 +25,17 @@ La Mairie de Bois-le-Roi avait alors présenté une idée de projet de logements
 
 Cela avait alors suscité des inquiétudes et des questionnements de la part des citoryens, des riverains et des associations qui s'étaient exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
 
-***Qu'en est-il aujourd'hui?***
+***Où en sommes-nous aujourd'hui ?***
 
-Mais depuis  ... Plus de nouvelles, ni d'informations au sujet de l'avenir de cette parcelle.
+Plus de nouvelles depuis plusieurs mois. Aucune information publique au sujet de l'avenir de cette parcelle.
 
+**Ce que nous savons:**
 - Suite aux fortes oppositions, la convention avec l'EPFIF n'a pas été signée par la Mairie.
-- Le terrain n'a pas encore été cédé mais quelques bruits de couloir circuleraient à propos d'une offre qui aurait été retenue par le propriétaire mais aucune information officielle n'a été réalisé ur le sujet à notre connaissance.
+- *Information à confirmer:* La Mairie aurait fait une offre d'achat pour la parcelle de la FOCEL mais l'offre n'aurait pas été retenue par le CMCAS EDF face à une meilleure offre d'un acteur privé. 
+- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais quelques bruits circuleraient à propos d'une offre d'achat qui aurait été retenue par le propriétaire du terrain mais aucune information officielle n'a été réalisé sur le sujet à notre connaissance à ce jour (18/07/2022).
 
-Nous espérons donc en savoir plus dans les semaines et les mois qui viennent afin que les bacots puissent se tenir informés du futur de cette parcelle sur leur commune.
+**Nous espérons donc en savoir plus dans les semaines et les mois qui viennent afin que les bacots puissent être informés du futur de cette parcelle sur leur commune.**
 
-De plus, en concertation avec les principales associations et collectif de Bois-le-Roi et afin d'informer les bacots, **le média lesbacots.org** a préparé un questionnaire qui serait destiné au(x) porteur(s) de projet. L'objectif étant de mieux comprendre les contours et les impacts du projet qui sera retenu. Nous serions ravis de pouvoir le partager et de le compléter avec le(s) porteur(s) de projet concerné(s).
+A ce titre et en concertation avec les principales associations et collectif de Bois-le-Roi, **le média lesbacots.org** a préparé un questionnaire qui serait destiné au(x) porteur(s) de projet. L'objectif étant de mieux comprendre les contours et les impacts du projet qui sera retenu. Nous serions donc ravis de pouvoir le partager et de le compléter avec le(s) porteur(s) de projet concerné(s).
 
 *N'hésitez pas à nous contacter si vous souhaitez nous mettre en relation avec le(s) porteur(s) de projet ou nous partager des informations à ce sujet. lemedia@lesbacots.org*
