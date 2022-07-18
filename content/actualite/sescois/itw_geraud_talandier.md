@@ -36,7 +36,7 @@ Géraud Talandier est un des fondateurs du collectif de défense Bellerive-Sesç
 
 **Pourquoi avez-vous attaqué son permis de construire ?**
 
->***GT>*** Nous avons demandé au tribunal administratif de prononcer l'annulation du permis de construire après suite à une expertise juridique et après avoir constaté qu'aucun dialogue n'était possible avec les promoteurs du projet. L'expertise a conclu sans ambiguïté à l'illégalité du projet. Il y a clairement des abus par rapport aux règles du PLU en vigueur. Nous avons dû saisir la justice en juillet 2021 pour respecter les délais légaux.
+>***GT>*** Nous avons demandé au tribunal administratif de prononcer l'annulation du permis de construire suite à une expertise juridique et après avoir constaté qu'aucun dialogue n'était possible avec les promoteurs du projet. L'expertise a conclu sans ambiguïté à l'illégalité du projet. Il y a clairement des abus par rapport aux règles du PLU en vigueur. Nous avons dû saisir la justice en juillet 2021 pour respecter les délais légaux.
 
 **Où en est l’affaire devant la Justice ?**
 
@@ -48,7 +48,7 @@ Géraud Talandier est un des fondateurs du collectif de défense Bellerive-Sesç
 
 **Avez-vous reçu des soutiens dans votre démarche ?**
 
->***GT>*** Beaucoup de soutiens sont venus spontanément de la part de gens outrés par la menace de tels projets de transformation d'un pavillon individuel en immeuble de logements collectifs et d'autres encore s'inquiètent de futurs projets sur des espaces naturels boisés de la ville. La plupart des voisins soutiennent notre action, les principales associations de Bois-le-Roi aussi nous soutiennent. Certains soutiens sont financiers. Les frais pour ce genre d'action en justice sont très lourds pour des particuliers, nous avons déjà engagé plus de 7k euros. Toutes les participations sont bienvenues.
+>***GT>*** Beaucoup de soutiens sont venus spontanément de la part de gens outrés par la menace de tels projets de transformation d'un pavillon individuel en immeuble de logements collectifs et d'autres encore s'inquiètent de futurs projets sur des espaces naturels boisés de la ville. La quasi totalité des habitants de la rue des Sescois a manifesté son désaccord à l'encontre du projet et nous avons le soutien des principales associations de Bois-le-Roi. Certains soutiens sont financiers. Les frais pour ce genre d'action en justice sont très lourds pour des particuliers, nous avons déjà engagé plus de 7k euros. Toutes les participations sont bienvenues.
 
 **Quelles sont les prochaines étapes et qu’espérez-vous pour la suite ?**
 
