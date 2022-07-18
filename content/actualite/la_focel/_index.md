@@ -14,7 +14,7 @@ La parcelle dite "La Focel" est une parcelle de 16 326 m² située en bord de Se
 > Voir plan rues adjacentes : Rue de l'Ile Saint-Pierre et Rue François Aussavis [Lien GoogleMaps](https://goo.gl/maps/ZyMpQDTMEHB4kbga8)).
 Elle abritait autrefois un centre de vacances et de loisirs pour enfants. Elle est actuellement en friche depuis sa fermeture.
 
-[Description de la parcelle extraite du GT Logements abordables du 24/11/2021](images/GT_24112021_FOCEL.JPG "Description de la parcelle extraite du GT Logements abordables du 24/11/2021")
+![Description de la parcelle extraite du GT Logements abordables du 24/11/2021](images/GT_24112021_FOCEL.JPG "Description de la parcelle extraite du GT Logements abordables du 24/11/2021")
 
 En Novembre 2021, la Mairie de Bois-le-Roi a communiqué sur le fait que cette parcelle devait être cédée sous peu, par son propriétaire, le CMCAS EDF. Ce qui a posé la question de son avenir et de son intérêt pour Bois-le-Roi et déclenché des débats animés entre les citoyens et différents acteurs de la vie locale de Bois-le-Roi en fin d'année 2021 et au début 2022.
 
