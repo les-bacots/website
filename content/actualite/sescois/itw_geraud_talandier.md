@@ -22,19 +22,19 @@ Le média citoyen lesbacots.org a souhaité en savoir plus sur le collectif Bell
 Ci-dessous les propos de Géraud Talandier recueillis par Simon Mencarelli pour lesbacots.org.
 Géraud Talandier est un des fondateurs du collectif de défense Bellerive-Sesçois et un des requérants de l'action en justice contre le projet de construction d'un immeuble de 12 logements au numéro 23 de la rue des sesçois.
 
-**Qu’est-ce que le collectif de défense Bellerive-Sesçois ?**
+**Simon Mencarelli: Qu’est-ce que le collectif de défense Bellerive-Sesçois ?**
 
-Le collectif s'est constitué en juin 2021 (ndr: il y a plus d'un an) suite à l'arrêté municipal du 26 mai 2021 autorisant la destruction d'une maison de la rue des Sesçois pour y construire un immeuble collectif à la place. Beaucoup de riverains ont été choqués par cette éventualité. Nous avons donc décidé de nous organiser et faire tout ce qui est en notre pouvoir pour arrêter ce projet.
+>***Géraud Talandier:*** Le collectif s'est constitué en juin 2021 (ndr: il y a plus d'un an) suite à l'arrêté municipal du 26 mai 2021 autorisant la destruction d'une maison de la rue des Sesçois pour y construire un immeuble collectif à la place. Beaucoup de riverains ont été choqués par cette éventualité. Nous avons donc décidé de nous organiser et faire tout ce qui est en notre pouvoir pour arrêter ce projet.
 
-**Pouvez-vous nous décrire le projet de construction de logements collectifs prévu au 23 Rue des sesçois ?**
+**SM: Pouvez-vous nous décrire le projet de construction de logements collectifs prévu au 23 Rue des sesçois ?**
 
-C'est un bâtiment de trois niveaux d'habitation (RDC + 2 niveaux) qui peut abriter 12 appartements.
+>***GT:*** C'est un bâtiment de trois niveaux d'habitation (RDC + 2 niveaux) qui peut abriter 12 appartements.
 
-**Qui est à l’origine de ce projet ?**
+**SM: Qui est à l’origine de ce projet ?**
 
-La maison concernée est habité depuis très longtemps par une famille de propriétaire. Le père et le fils travaillent tous les deux dans le bâtiment. Le père est retraité et c'est le fils qui a demandé le permis de démolition et de construction. 
+>***GT*** La maison concernée est habité depuis très longtemps par une famille de propriétaire. Le père et le fils travaillent tous les deux dans le bâtiment. Le père est retraité et c'est le fils qui a demandé le permis de démolition et de construction. 
 
-**Pourquoi avez-vous attaqué son permis de construire ?**
+**SM: Pourquoi avez-vous attaqué son permis de construire ?**
 
 Nous avons demandé au tribunal administratif de prononcer l'annulation du permis de construire après suite à une expertise juridique et après avoir constaté qu'aucun dialogue n'était possible avec les promoteurs du projet. L'expertise a conclu sans ambiguïté à l'illégalité du projet. Il y a clairement des abus par rapport aux règles du PLU en vigueur. Nous avons dû saisir la justice en juillet 2021 pour respecter les délais légaux.
 
