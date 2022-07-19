@@ -1,5 +1,5 @@
 ---
-title: "Défense Bellerive-Sesçois"
+title: "Défense Bellerive Sesçois"
 description: "Informations générales à propos du collectif"
 lead: "Informations générales à propos du collectif"
 date: 2020-10-13T15:21:01+02:00
@@ -13,7 +13,7 @@ weight: 10
 toc: true
 ---
 
-- **Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html) 
+- **Site internet :** [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html)
 - **Email de contact :** bellerivesescois.collectif@gmail.com
 
 
@@ -29,17 +29,16 @@ toc: true
 - 68 personnes
 
 ### Publications & Actions
-- 27 juillet 2021 : Recours en annulation du Permis de Construire devant le Tribunal Administratif de Melun 
+- 27 juillet 2021 : Recours en annulation du Permis de Construire devant le Tribunal Administratif de Melun
 - 27 mai 2022 : Le tribunal dénonce un deuxième étage "ne constituant pas un comble".
 - 30 mai 2022 : La mairie valide une modification visant à réduire le projet (voir le détail dans le site du collectif).
-- 22 juin 2022 : Devant la pauvreté des modifications proposées au juge, nous décidons de poursuivre l'action en justice. 
+- 22 juin 2022 : Devant la pauvreté des modifications proposées au juge, nous décidons de poursuivre l'action en justice.
 
 ... Plus d'information sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
-  Possibilité d'adhérer pour être tenu informé. 
+  Possibilité d'adhérer pour être tenu informé.
 
 
 ### Budget & Financement
- - A juin 2022 nous avons déjà engagé plus de 7K euros de frais de justice. 
+ - A juin 2022 nous avons déjà engagé plus de 7K euros de frais de justice.
  - 100% du financement provient de dons privés
  - Les modalités pour soutenir l'action du collectif se trouvent sur le site du collectif [http://ruechantemerle.fr/assoc/belses.html](http://ruechantemerle.fr/assoc/belses.html).
-
