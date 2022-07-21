@@ -25,7 +25,7 @@ Elle abritait autrefois un centre de vacances et de loisirs pour enfants. Elle e
 
 - Décembre 2021 et début 2022 : Suite à ce Conseil Municipal, un groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi est mis en place. Plusieurs réunions de ce groupe de travail ont lieu et débouchent (lors de ces GT ou en parallèle) sur des inquiétudes et des questionnements de la part des citoyens, des riverains et des associations. Ceux-ci s'étaient alors exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
 
-- Février/Mars 2022 : le CMCAS décide de reporter la date limite de dépôt des offres ainsi que sa décision.
+- Février/Mars 2022 : le CMCAS décide de reporter la date limite de dépôt des offres d'achat du terrain de la FOCEL ainsi que sa décision pour le choix du lauréat.
 
 ***Où en sommes-nous aujourd'hui ?***
 
