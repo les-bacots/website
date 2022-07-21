@@ -19,9 +19,9 @@ Elle abritait autrefois un centre de vacances et de loisirs pour enfants. Elle e
 
 ***Rappels***
 
-- Novembre 2021 : la Mairie de Bois-le-Roi communique sur le fait que cette parcelle devrait être cédée sous peu par son propriétaire, le CMCAS EDF, et poste la question de son avenir et de l'intérêt que la commune pourrait avoir sur cette parcelle cette parcelle.
+- Novembre 2021 : la Mairie de Bois-le-Roi communique sur le fait que cette parcelle devrait être cédée sous peu par son propriétaire, le CMCAS EDF, et pose la question de son avenir et de l'intérêt que la commune pourrait avoir sur cette parcelle.
 
-- 18 Novembre 2021 : à l'occasion du conseil municipal, la Mairie de Bois-Le-Roi présente une résolution concernant la signature d'une convention avec l'Etablissement Public Foncier d'Ile-de-france (EPFIF), qui doit permettre d'aider la commune pour la gestion et le financement d'opérations d'envergure de ce type, ce qui permettrait notamment de répondre aux objectifs de logements sociaux requis par la loi SRU pour la commune de Bois-le-Roi. Des débats animés entre citoyens et les différents acteurs de la vie locale de Bois le Roi ont lieu lors de ce Conseil Municipal.
+- 18 Novembre 2021 : à l'occasion du conseil municipal, la Mairie de Bois-Le-Roi présente une résolution concernant la signature d'une convention avec l'Etablissement Public Foncier d'Ile-de-france (EPFIF), qui doit permettre d'aider la commune pour la gestion et le financement d'opérations d'envergure dont le possible rachat de la FOCEL. Cette opération permettrait notamment de répondre aux objectifs de logements sociaux requis par la loi SRU pour la commune de Bois-le-Roi. Des débats animés entre citoyens et les différents acteurs de la vie locale de Bois-le-Roi ont lieu en marge de ce Conseil Municipal.
 
 - Décembre 2021 et début 2022 : Suite à ce Conseil Municipal, un groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi est mis en place. Plusieurs réunions de ce groupe de travail ont lieu et débouchent (lors de ces GT ou en parallèle) sur des inquiétudes et des questionnements de la part des citoyens, des riverains et des associations. Ceux-ci s'étaient alors exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
 
