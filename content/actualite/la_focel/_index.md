@@ -19,22 +19,23 @@ Elle abritait autrefois un centre de vacances et de loisirs pour enfants. Elle e
 
 ***Rappels***
 
-Novembre 2021 : la Mairie de Bois-le-Roi communique sur le fait que cette parcelle devrait être cédée sous peu par son propriétaire, le CMCAS EDF, et poste la question de son avenir et de l'intérêt que la commune pourrait avoir sur cette parcelle cette parcelle.
+- Novembre 2021 : la Mairie de Bois-le-Roi communique sur le fait que cette parcelle devrait être cédée sous peu par son propriétaire, le CMCAS EDF, et poste la question de son avenir et de l'intérêt que la commune pourrait avoir sur cette parcelle cette parcelle.
 
-18 Novembre 2021 : à l'occasion du conseil municipal, la Mairie de Bois-Le-Roi présente une résolution concernant la signature d'une convention avec l'Etablissement Public Foncier d'Ile-de-france (EPFIF), qui doit permettre d'aider la commune pour la gestion et le financement d'opérations d'envergure de ce type, ce qui permettrait notamment de répondre aux objectifs de logements sociaux requis par la loi SRU pour la commune de Bois-le-Roi. DEs débats animés entre citoyens et les différents acteurs de la vie locale de Bois le Roi ont lieu lors de ce Conseil Municipal.
+- 18 Novembre 2021 : à l'occasion du conseil municipal, la Mairie de Bois-Le-Roi présente une résolution concernant la signature d'une convention avec l'Etablissement Public Foncier d'Ile-de-france (EPFIF), qui doit permettre d'aider la commune pour la gestion et le financement d'opérations d'envergure de ce type, ce qui permettrait notamment de répondre aux objectifs de logements sociaux requis par la loi SRU pour la commune de Bois-le-Roi. Des débats animés entre citoyens et les différents acteurs de la vie locale de Bois le Roi ont lieu lors de ce Conseil Municipal.
 
-Décembre 2021 et début 2022 : Suite à ce CM, un groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi est mis en place. Plusieurs réunions de ce groupe de travail ont lieu.  qui ont donné lieu (lors de ces GT ou en parallèle) à des inquiétudes et des questionnements de la part des citoryens, des riverains et des associations qui s'étaient exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
+- Décembre 2021 et début 2022 : Suite à ce Conseil Municipal, un groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi est mis en place. Plusieurs réunions de ce groupe de travail ont lieu et débouchent (lors de ces GT ou en parallèle) sur des inquiétudes et des questionnements de la part des citoyens, des riverains et des associations. Ceux-ci s'étaient alors exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
 
-Février/Mars 2022 : le CMCAS décide, après un premier report de sa décision, de sélectionner le projet KORIAN.
+- Février/Mars 2022 : le CMCAS décide de reporter la date limite de dépôt des offres ainsi que sa décision.
 
 ***Où en sommes-nous aujourd'hui ?***
 
-Pas de nouvelle particulière, aucune information partagée au sujet de l'avenir de cette parcelle.
+Pas de nouvelle particulière, aucune information partagée officiellement au sujet de l'avenir de cette parcelle et du choix du CMCAS.
 
 **Ce que nous savons:**
 - Suite aux fortes oppositions, la convention avec l'EPFIF n'a pas été signée par la Mairie.
-- *Information à confirmer:* La Mairie aurait fait une offre d'achat pour la parcelle de la FOCEL mais l'offre n'aurait pas été retenue par le CMCAS EDF face à une meilleure offre d'un acteur privé. 
-- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais quelques bruits circuleraient à propos d'une offre d'achat qui aurait été retenue par le propriétaire du terrain mais aucune information officielle n'a été réalisé sur le sujet à notre connaissance à ce jour (18/07/2022).
+**Ce que nous avons entendu:**
+- *Information à confirmer:* La Mairie aurait fait une offre d'achat pour la parcelle de la FOCEL mais l'offre n'aurait pas été retenue par le CMCAS EDF face à une meilleure offre de la part de la société KORIAN. 
+- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais des bruits circuleraient à propos de la victoire de l'offre KORIAN qui aurait été acceptée par le CMCAS EDF propriétaire du terrain. Cependant aucune communication officielle n'a été réalisé sur à ce sujet à notre connaissance, à ce jour (22/07/2022). Ni par le CMCAS, ni par la Mairie, ni par KORIAN.
 
 **Nous espérons donc en savoir plus dans les semaines et les mois qui viennent afin que les bacots puissent être informés du futur de cette parcelle sur leur commune.**
 
