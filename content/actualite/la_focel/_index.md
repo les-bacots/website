@@ -33,9 +33,10 @@ Pas de nouvelle particulière, aucune information partagée officiellement au su
 
 **Ce que nous savons:**
 - Suite aux fortes oppositions, la convention avec l'EPFIF n'a pas été signée par la Mairie.
+
 **Ce que nous avons entendu:**
 - *Information à confirmer:* La Mairie aurait fait une offre d'achat pour la parcelle de la FOCEL mais l'offre n'aurait pas été retenue par le CMCAS EDF face à une meilleure offre de la part de la société KORIAN. 
-- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais des bruits circuleraient à propos de la victoire de l'offre KORIAN qui aurait été acceptée par le CMCAS EDF propriétaire du terrain. Cependant aucune communication officielle n'a été réalisé sur à ce sujet à notre connaissance, à ce jour (22/07/2022). Ni par le CMCAS, ni par la Mairie, ni par KORIAN.
+- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais des bruits circuleraient à propos de la victoire de l'offre KORIAN qui aurait été acceptée par le CMCAS EDF propriétaire du terrain. Cependant aucune communication officielle n'a été réalisée sur ce sujet à notre connaissance. Ni par le CMCAS EDF, ni par la Mairie, ni par KORIAN, à ce jour (22/07/2022).
 
 **Nous espérons donc en savoir plus dans les semaines et les mois qui viennent afin que les bacots puissent être informés du futur de cette parcelle sur leur commune.**
 
