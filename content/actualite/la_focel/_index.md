@@ -25,7 +25,7 @@ Elle abritait autrefois un centre de vacances et de loisirs pour enfants. Elle e
 
 - Décembre 2021 et début 2022 : Suite à ce Conseil Municipal, un groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi est mis en place. Plusieurs réunions de ce groupe de travail ont lieu et débouchent (lors de ces GT ou en parallèle) sur des inquiétudes et des questionnements de la part des citoyens, des riverains et des associations. Ceux-ci s'étaient alors exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
 
-- Février/Mars 2022 : le CMCAS décide de reporter la date limite de dépôt des offres d'achat du terrain de la FOCEL ainsi que sa décision pour le choix du lauréat.
+- Fin Janvier 2022 : le CMCAS décide de reporter la date limite de dépôt des offres d'achat du terrain de la FOCEL ainsi que sa décision pour le choix du lauréat.
 
 ***Où en sommes-nous aujourd'hui ?***
 
@@ -35,8 +35,8 @@ Pas de nouvelle particulière, aucune information partagée officiellement au su
 - Suite aux fortes oppositions, la convention avec l'EPFIF n'a pas été signée par la Mairie.
 
 **Ce que nous avons entendu:**
-- *Information à confirmer:* La Mairie aurait fait une offre d'achat pour la parcelle de la FOCEL mais l'offre n'aurait pas été retenue par le CMCAS EDF face à une meilleure offre de la part de la société KORIAN. 
-- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais des bruits circuleraient à propos de la victoire de l'offre KORIAN qui aurait été acceptée par le CMCAS EDF propriétaire du terrain. Cependant aucune communication officielle n'a été réalisée sur ce sujet à notre connaissance. Ni par le CMCAS EDF, ni par la Mairie, ni par KORIAN, à ce jour (22/07/2022).
+- *Information à confirmer:* La Mairie aurait fait une offre d'achat pour la parcelle de la FOCEL mais l'offre n'aurait pas été retenue par le CMCAS EDF face à une meilleure offre de la part d'une société ^rivée. 
+- *Information à confirmer:* Le terrain n'aurait pas encore été cédé mais des bruits circuleraient à propos de la victoire d'une offre provenant d'une société dans le domaine de la santé (KORIAN ou ORPEA). Celle-ci aurait été acceptée par le CMCAS EDF propriétaire du terrain. Cependant aucune communication officielle n'a été réalisée sur ce sujet à notre connaissance. Ni par le CMCAS EDF, ni par la Mairie, ni par KORIAN ou ORPEA, à ce jour (22/07/2022).
 
 **Nous espérons donc en savoir plus dans les semaines et les mois qui viennent afin que les bacots puissent être informés du futur de cette parcelle sur leur commune.**
 
