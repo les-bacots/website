@@ -19,15 +19,17 @@ Elle abritait autrefois un centre de vacances et de loisirs pour enfants. Elle e
 
 ***Rappels***
 
-En Novembre 2021, la Mairie de Bois-le-Roi a communiqué sur le fait que cette parcelle devait être cédée sous peu par son propriétaire, le CMCAS EDF. Ce qui avait alors posé la question de son avenir et de son intérêt pour Bois-le-Roi déclenchant des débats animés entre les citoyens et les différents acteurs de la vie locale de Bois-le-Roi en fin d'année 2021 et au début 2022.
+Novembre 2021 : la Mairie de Bois-le-Roi communique sur le fait que cette parcelle devrait être cédée sous peu par son propriétaire, le CMCAS EDF, et poste la question de son avenir et de l'intérêt que la commune pourrait avoir sur cette parcelle cette parcelle.
 
-La Mairie de Bois-le-Roi avait alors présenté une idée de projet de logements sociaux sur cette parcelle dans le cadre du groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi. Ce projet était alors présenté comme urgent et justifiait le recours rapide à l'Etablissement Public Foncier d'Ile-de-france (EPFIF) pour son financement au travers de la signature d'une convention d'intervention foncière. De plus, ce projet d'envergure permettait de répondre aux objectifs de logements sociaux requis par la loi SRU pour la commune de Bois-le-Roi.
+18 Novembre 2021 : à l'occasion du conseil municipal, la Mairie de Bois-Le-Roi présente une résolution concernant la signature d'une convention avec l'Etablissement Public Foncier d'Ile-de-france (EPFIF), qui doit permettre d'aider la commune pour la gestion et le financement d'opérations d'envergure de ce type, ce qui permettrait notamment de répondre aux objectifs de logements sociaux requis par la loi SRU pour la commune de Bois-le-Roi. DEs débats animés entre citoyens et les différents acteurs de la vie locale de Bois le Roi ont lieu lors de ce Conseil Municipal.
 
-Cela avait alors suscité des inquiétudes et des questionnements de la part des citoryens, des riverains et des associations qui s'étaient exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
+Décembre 2021 et début 2022 : Suite à ce CM, un groupe de travail "Logements abordables" réunissant des élus et des associations de Bois-le-Roi est mis en place. Plusieurs réunions de ce groupe de travail ont lieu.  qui ont donné lieu (lors de ces GT ou en parallèle) à des inquiétudes et des questionnements de la part des citoryens, des riverains et des associations qui s'étaient exprimés sur les sujets EPFIF, Focel et loi SRU par divers courriers.
+
+Février/Mars 2022 : le CMCAS décide, après un premier report de sa décision, de sélectionner le projet KORIAN.
 
 ***Où en sommes-nous aujourd'hui ?***
 
-Plus de nouvelles depuis plusieurs mois. Aucune information publique au sujet de l'avenir de cette parcelle.
+Pas de nouvelle particulière, aucune information partagée au sujet de l'avenir de cette parcelle.
 
 **Ce que nous savons:**
 - Suite aux fortes oppositions, la convention avec l'EPFIF n'a pas été signée par la Mairie.
