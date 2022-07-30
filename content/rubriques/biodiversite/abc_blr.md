@@ -34,7 +34,7 @@ Une cinquantaine d'habitants avaient fait le déplacement pour écouter les prem
 
 - **12** secteurs inventoriés *(+9 secteurs exhaustifs)*
 - **435** espèces contactées *(observées)* dont :
-    - **63** espèces protégées *(voir définition 1 en bas de page)*
+    - **63** espèces protégées *(définition 1 en bas de page)*
     - **14** espèces patrimoniales *(définition 2 en bas de page)*
 - **151** nouvelles espèces identifiées sur la commune
 
@@ -52,7 +52,7 @@ Une cinquantaine d'habitants avaient fait le déplacement pour écouter les prem
 
 ***Pour télécharger le rapport :***
 
-CLiquez sur le lien suivant pour télécharger le [rapport ABC de Bois-le-Roi Année 1](https://lesbacots.org/content/rubriques/biodiversite/abc_blr/ABC_BLR_ANNEE1.pdf)
+Cliquez sur le lien suivant pour télécharger le [rapport ABC de Bois-le-Roi Année 1](https://lesbacots.org/content/rubriques/biodiversite/abc_blr/ABC_BLR_ANNEE1.pdf)
 
 ***Pour participer à l'étude :***
 
