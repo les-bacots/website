@@ -15,17 +15,17 @@ toc: true
 
 ## Qu'est-ce que l'ABC de Bois-le-Roi ?
 
-L'**A**tlas de la **B**iodiversité **C**ommunale *(ABC)* représente l'étude de la biodiversité à l'échelle communale.
+L'**A**tlas de la **B**iodiversité **C**ommunale *(ABC)* étudie de la biodiversité à l'échelle d'une commune.
 
-Pour une commune, développer son ABC, c'est une première étape pour :
+**Pour une commune**, développer son **ABC**, c'est une première étape pour :
 - **Prendre conscience de l'importance de la biodiversité** à l'échelle de son territoire.
 - **Améliorer la connaissance de cette biodiversité** en réalisant des inventaires des milieux naturels, faune et flore.
 - Identifier et hiérarchiser **les enjeux** associés.
 - **Impliquer ses habitants** dans cette dynamique.
 - Prendre en compte la biodiversité inventoriée dans **la gestion de son territoire**.
 
-Cette étude a été commandée par la Mairie de Bois-le-Roi à l'association Seine & Marne environnement et va se dérouler sur 3 ans.
-Le compte-rendu de la première année d'étude a été présentée aux habitants de Bois-le-Roi **le 10 Juin 2022** dans la salle multi-activités de la Mairie.
+Cette étude est financée par la Mairie de Bois-le-Roi au travers d'une commande à l'association Seine & Marne Environnement.
+L'étude va se dérouler sur 3 ans et le compte-rendu de la première année a été présentée aux habitants de Bois-le-Roi **le 10 Juin 2022** dans la salle multi-activités de la Mairie.
 Une cinquantaine d'habitants avaient fait le déplacement pour écouter les premières conclusions.
 
 ## Conclusions présentées par Seine & Marne Environnement le 10 Juin 2022
@@ -58,13 +58,8 @@ Cliquez sur le lien suivant pour télécharger le [rapport ABC de Bois-le-Roi An
 
 Vous pouvez:
 - Donner accès à votre propriété pour réaliser les inventaires.
-- Envoyer vos observations à abc@seme-idf77.fr en notant la date, le lieu et prenant une photo en cas de doute.
+- Envoyer vos observations (insectes, animaux, végétaux, ...) à abc@seme-idf77.fr en notant la date, le lieu et prenant une photo en cas de doute.
 - Participer aux événements de sensibilisation et de découverte.
-
-### Principales questions posées par les habitants le 10 Juin 2022
-
-- Est-ce que des recommandations seront formulées par Seine & Marne Environnment concernant les zones à protéger ?
-- Est-ce que ces recommandations seront intégrées par la Mairie dans les futures évolutions du PLU / PLU*i* ?
 
 ### Définitions
 
