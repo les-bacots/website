@@ -19,14 +19,9 @@
   weight = 40
 
 [[main]]
-  name = "Communauté"
-  url = "/communaute/"
-  weight = 50
-
-[[main]]
   name = "Annuaire"
   url = "/annuaire/"
-  weight = 60
+  weight = 50
 
 [[rubriques]]
   name = "Démographie et Logements"
@@ -135,12 +130,6 @@
   weight = 30
   identifier = "historique"
   url = "/comment_participer/historique/"
-
-[[communaute]]
-  name = "Communauté"
-  weight = 10
-  identifier = "communaute"
-  url = "/communaute/"
 
 [[annuaire]]
   name = "Conseil Municipal"

@@ -38,7 +38,6 @@
             {{- $active = or $active (and (eq .Name "Annuaire") (eq $current.Section "annuaire")) -}}
             {{- $active = or $active (and (eq .Name "Blog") (eq $current.Section "blog")) -}}
             {{- $active = or $active (and (eq .Name "Comment participer ?") (eq $current.Section "comment_participer")) -}}
-            {{- $active = or $active (and (eq .Name "Communauté") (eq $current.Section "communaute")) -}}
             {{- $active = or $active (and (eq .Name "Rubriques") (eq $current.Section "rubriques")) -}}
             <li class="nav-item">
               <a class="nav-link ps-0 py-1{{ if $active }} active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name

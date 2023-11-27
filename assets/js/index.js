@@ -99,7 +99,6 @@ Source:
   {{ $annuaire_list := (where .Site.Pages "Section" "annuaire") -}}
   {{ $blog_list := (where .Site.Pages "Section" "blog") -}}
   {{ $comment_participer_list := (where .Site.Pages "Section" "comment_participer") -}}
-  {{ $communaute_list := (where .Site.Pages "Section" "communaute") -}}
   {{ $devenir_membre_list := (where .Site.Pages "Section" "devenir_membre") -}}
   {{ $inscription_newsletter_list := (where .Site.Pages "Section" "inscription_newsletter") -}}
   {{ $rubriques_list := (where .Site.Pages "Section" "rubriques") -}}
@@ -148,20 +147,6 @@ Source:
     {{ $all_index = (add $all_index 1) -}}
     {{ end -}}
     {{ range $index, $element := $comment_participer_list -}}
-    .add({
-        id: {{ $all_index }},
-        href: "{{ .RelPermalink }}",
-        title: {{ .Title | jsonify }},
-        {{ with .Description -}}
-          description: {{ . | jsonify }},
-        {{ else -}}
-          description: {{ .Summary | plainify | jsonify }},
-        {{ end -}}
-        content: {{ .Plain | jsonify }}
-    })
-    {{ $all_index = (add $all_index 1) -}}
-    {{ end -}}
-    {{ range $index, $element := $communaute_list -}}
     .add({
         id: {{ $all_index }},
         href: "{{ .RelPermalink }}",
